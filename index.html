@@ -3,13 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive Quiz</title>
+    <title>Multi-Bank Interactive Quiz</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <div class="quiz-container">
         <h1>Interactive Quiz</h1>
+        
+        <label for="bank-selector">Choose a Question Bank:</label>
+        <select id="bank-selector" onchange="loadSelectedBank()">
+            <option value="questions.json">General Questions</option>
+            <option value="neuro_questions.json">Neuroscience</option>
+            <option value="cardio_questions.json">Cardiology</option>
+        </select>
+
+        <hr>
+
         <div id="quiz">
             </div>
     </div>
