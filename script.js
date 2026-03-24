@@ -1,15 +1,16 @@
-// Function to load the quiz based on the dropdown selection
 function loadSelectedBank() {
-    const fileName = document.getElementById('bank-selector').value;
+    const filePath = document.getElementById('bank-selector').value;
     const quizContainer = document.getElementById('quiz');
     
-    // Clear the current questions
-    quizContainer.innerHTML = "Loading...";
+    quizContainer.innerHTML = "Loading questions...";
 
-    fetch(fileName)
-        .then(response => response.json())
+    fetch(filePath)
+        .then(response => {
+            if (!response.ok) throw new Error('File not found');
+            return response.json();
+        })
         .then(data => {
-            quizContainer.innerHTML = ""; // Clear the loading text
+            quizContainer.innerHTML = "";
 
             data.forEach((item, qIndex) => {
                 const qDiv = document.createElement('div');
@@ -21,13 +22,11 @@ function loadSelectedBank() {
                     btn.innerText = option;
                     
                     btn.onclick = () => {
-                        // 1. Remove "correct" or "wrong" from ALL buttons in this specific question
-                        const allButtonsInThisQuestion = qDiv.querySelectorAll('button');
-                        allButtonsInThisQuestion.forEach(b => {
-                            b.classList.remove('correct', 'wrong');
-                        });
+                        // Clear previous selection colors for this question
+                        const allButtons = qDiv.querySelectorAll('button');
+                        allButtons.forEach(b => b.classList.remove('correct', 'wrong'));
 
-                        // 2. Check if the selection is right or wrong
+                        // Apply new color (allows re-selection)
                         if (oIndex === item.answer) {
                             btn.classList.add('correct');
                         } else {
@@ -42,9 +41,9 @@ function loadSelectedBank() {
             });
         })
         .catch(error => {
-            quizContainer.innerHTML = "Error loading file. Make sure the filename is correct.";
+            quizContainer.innerHTML = `<p style="color:red;">Error: Could not find "${filePath}" in the qbanks folder.</p>`;
         });
 }
 
-// Load the default bank when the page first opens
+// Initial load
 window.onload = loadSelectedBank;
