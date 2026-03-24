@@ -1,17 +1,502 @@
 [
   {
-    "question": "What is the capital of France?",
-    "options": ["London", "Berlin", "Paris", "Madrid"],
-    "answer": 2
-  },
-  {
-    "question": "Which planet is known as the Red Planet?",
-    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "question": "Which chemical messenger system involves hormones released by glands into the circulating blood to influence target cells at another location?",
+    "options": ["Neurotransmitters", "Endocrine hormones", "Paracrines", "Autocrines"],
     "answer": 1
   },
   {
-    "question": "What is 5 + 7?",
-    "options": ["10", "11", "12", "13"],
+    "question": "Which type of messenger affects neighboring target cells of a different type?",
+    "options": ["Autocrine", "Cytokine", "Paracrine", "Neuroendocrine"],
     "answer": 2
+  },
+  {
+    "question": "Hormones secreted by neurons into the blood to influence target cells elsewhere are called:",
+    "options": ["Neurotransmitters", "Cytokines", "Paracrines", "Neuroendocrine hormones"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is an example of a cytokine hormone produced by adipocytes?",
+    "options": ["Insulin", "Leptin", "Glucagon", "Thyroxine"],
+    "answer": 1
+  },
+  {
+    "question": "Which organ coordinates body functions via chemical messengers to maintain homeostasis?",
+    "options": ["Only the adrenal gland", "Only the pituitary gland", "Multiple interacting systems", "Only the hypothalamus"],
+    "answer": 2
+  },
+  {
+    "question": "Growth hormone is secreted by which gland?",
+    "options": ["Posterior pituitary", "Thyroid", "Anterior pituitary", "Adrenal cortex"],
+    "answer": 2
+  },
+  {
+    "question": "Thyroxine from the thyroid gland increases the rate of chemical reactions in:",
+    "options": ["Only the liver", "Almost all the body's cells", "Only the nervous system", "Only muscle cells"],
+    "answer": 1
+  },
+  {
+    "question": "Which hormone specifically stimulates the adrenal cortex to secrete adrenocortical hormones?",
+    "options": ["Thyrotropin", "Growth hormone", "Adrenocorticotropic hormone (ACTH)", "Luteinizing hormone"],
+    "answer": 2
+  },
+  {
+    "question": "Hormones are generally classified into how many chemical classes?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a general class of hormones?",
+    "options": ["Proteins and polypeptides", "Steroids", "Polysaccharides", "Tyrosine derivatives"],
+    "answer": 2
+  },
+  {
+    "question": "Most hormones in the body belong to which class?",
+    "options": ["Steroids", "Polypeptide and proteins", "Tyrosine derivatives", "Nucleic acids"],
+    "answer": 1
+  },
+  {
+    "question": "In general, polypeptides with 100 or more amino acids are called:",
+    "options": ["Peptides", "Proteins", "Amines", "Steroids"],
+    "answer": 1
+  },
+  {
+    "question": "Where are protein and peptide hormones synthesized?",
+    "options": ["Smooth endoplasmic reticulum", "Golgi apparatus", "Rough endoplasmic reticulum", "Nucleus"],
+    "answer": 2
+  },
+  {
+    "question": "What is the initial, biologically inactive form of a protein hormone called?",
+    "options": ["Prohormone", "Preprohormone", "Active fragment", "Mature hormone"],
+    "answer": 1
+  },
+  {
+    "question": "Which organelle is responsible for packaging prohormones into secretory vesicles?",
+    "options": ["Mitochondria", "Nucleus", "Golgi apparatus", "Lysosome"],
+    "answer": 2
+  },
+  {
+    "question": "Secretion of peptide hormones into the bloodstream occurs via:",
+    "options": ["Simple diffusion", "Facilitated diffusion", "Exocytosis", "Active transport pumps"],
+    "answer": 2
+  },
+  {
+    "question": "Which ion often acts as a stimulus for hormone-containing vesicle exocytosis?",
+    "options": ["Sodium", "Potassium", "Calcium", "Chloride"],
+    "answer": 2
+  },
+  {
+    "question": "Peptide hormones are generally:",
+    "options": ["Lipid soluble", "Water soluble", "Insoluble in plasma", "Bound to large proteins for transport"],
+    "answer": 1
+  },
+  {
+    "question": "Steroid hormones are usually synthesized from:",
+    "options": ["Tyrosine", "Triglycerides", "Cholesterol", "Amino acids"],
+    "answer": 2
+  },
+  {
+    "question": "Steroid hormones are characterized by which structure?",
+    "options": ["Three cyclohexyl rings and one cyclopentyl ring", "A single long carbon chain", "Two benzene rings", "A protein backbone"],
+    "answer": 0
+  },
+  {
+    "question": "Why are steroid hormones NOT stored in large amounts in endocrine cells?",
+    "options": ["They are rapidly degraded", "They are highly lipid soluble and diffuse across membranes", "They are synthesized only when needed", "They are too large for vesicles"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a steroid hormone secreted by the adrenal cortex?",
+    "options": ["Epinephrine", "Insulin", "Cortisol", "Thyroxine"],
+    "answer": 2
+  },
+  {
+    "question": "Amine hormones are derived from which amino acid?",
+    "options": ["Tryptophan", "Tyrosine", "Leucine", "Arginine"],
+    "answer": 1
+  },
+  {
+    "question": "Which amine hormones are synthesized and stored in large follicles within the thyroid gland?",
+    "options": ["Epinephrine and Norepinephrine", "Thyroxine and Triiodothyronine", "Insulin and Glucagon", "Cortisol and Aldosterone"],
+    "answer": 1
+  },
+  {
+    "question": "The adrenal medulla primarily secretes which hormone?",
+    "options": ["Norepinephrine", "Epinephrine", "Dopamine", "Cortisol"],
+    "answer": 1
+  },
+  {
+    "question": "Which hormones develop full action within seconds to minutes?",
+    "options": ["Thyroxine", "Growth hormone", "Epinephrine", "Estrogen"],
+    "answer": 2
+  },
+  {
+    "question": "Hormone concentrations in the blood are generally measured in:",
+    "options": ["Grams per liter", "Milligrams per milliliter", "Picograms to micrograms per milliliter", "Moles per liter"],
+    "answer": 2
+  },
+  {
+    "question": "Most hormone secretion is controlled by which mechanism?",
+    "options": ["Positive feedback", "Negative feedback", "Feed-forward control", "Neural reflex only"],
+    "answer": 1
+  },
+  {
+    "question": "Which is an example of positive feedback in hormonal control?",
+    "options": ["Cortisol inhibiting ACTH", "Insulin lowering blood glucose", "The LH surge caused by estrogen before ovulation", "Thyroid hormone inhibiting TSH"],
+    "answer": 2
+  },
+  {
+    "question": "What serves as the 'master clock' for circadian rhythms of endocrine signaling?",
+    "options": ["Adrenal gland", "Anterior pituitary", "Suprachiasmatic nucleus (SCN)", "Pineal gland"],
+    "answer": 2
+  },
+  {
+    "question": "Which hormones are transported primarily while bound to plasma proteins?",
+    "options": ["Peptides", "Catecholamines", "Steroid and thyroid hormones", "Cytokines"],
+    "answer": 2
+  },
+  {
+    "question": "What percentage of thyroxine in the blood is typically bound to plasma proteins?",
+    "options": ["Less than 10%", "50%", "75%", "More than 99%"],
+    "answer": 3
+  },
+  {
+    "question": "The 'metabolic clearance rate' (MCR) is defined as:",
+    "options": ["The rate of hormone synthesis", "The number of milliliters of plasma cleared of a hormone per minute", "The time it takes for a hormone to reach target cells", "The total amount of hormone excreted in urine"],
+    "answer": 1
+  },
+  {
+    "question": "Where is the primary site for the 'clearance' of steroid hormones via bile?",
+    "options": ["Kidney", "Spleen", "Liver", "Pancreas"],
+    "answer": 2
+  },
+  {
+    "question": "The first step of a hormone's action is to:",
+    "options": ["Enter the nucleus", "Bind to specific receptors", "Activate cAMP", "Phosphorylate a protein"],
+    "answer": 1
+  },
+  {
+    "question": "Each target cell usually has approximately how many hormone receptors?",
+    "options": ["10 to 100", "200 to 1000", "2000 to 100,000", "Over 1,000,000"],
+    "answer": 2
+  },
+  {
+    "question": "Receptors for thyroid hormones are located in the:",
+    "options": ["Cell membrane", "Cytoplasm", "Nucleus", "Mitochondria"],
+    "answer": 2
+  },
+  {
+    "question": "Down-regulation of receptors leads to:",
+    "options": ["Increased sensitivity to the hormone", "Decreased responsiveness to the hormone", "Increased hormone secretion", "Faster hormone clearance"],
+    "answer": 1
+  },
+  {
+    "question": "G protein-coupled receptors typically have how many transmembrane segments?",
+    "options": ["One", "Three", "Five", "Seven"],
+    "answer": 3
+  },
+  {
+    "question": "In an inactive G protein complex, which subunit binds GDP?",
+    "options": ["Alpha", "Beta", "Gamma", "Delta"],
+    "answer": 0
+  },
+  {
+    "question": "Activation of a G protein involves the exchange of GDP for:",
+    "options": ["ADP", "cAMP", "GTP", "Calcium"],
+    "answer": 2
+  },
+  {
+    "question": "The leptin receptor is an example of which type of receptor?",
+    "options": ["Ion channel-linked", "G protein-linked", "Enzyme-linked (JAK/STAT)", "Nuclear receptor"],
+    "answer": 2
+  },
+  {
+    "question": "Which enzyme catalyzes the formation of cyclic AMP (cAMP)?",
+    "options": ["Phospholipase C", "Adenylyl cyclase", "Tyrosine kinase", "Protein kinase C"],
+    "answer": 1
+  },
+  {
+    "question": "Which molecule acts as a second messenger for atrial natriuretic peptide?",
+    "options": ["cAMP", "Calcium", "cGMP", "DAG"],
+    "answer": 2
+  },
+  {
+    "question": "Intracellular hormone receptors for steroids typically bind to which DNA sequence?",
+    "options": ["TATA box", "Hormone response element", "Intron", "Telomere"],
+    "answer": 1
+  },
+  {
+    "question": "What is a major second messenger produced by phospholipase C activation?",
+    "options": ["cAMP", "cGMP", "Inositol triphosphate (IP3)", "Adenosine"],
+    "answer": 2
+  },
+  {
+    "question": "Diacylglycerol (DAG) activates which enzyme?",
+    "options": ["Protein kinase A", "Protein kinase C", "Adenylyl cyclase", "Phosphodiesterase"],
+    "answer": 1
+  },
+  {
+    "question": "Calmodulin becomes activated when it binds to how many calcium ions?",
+    "options": ["One", "Two", "Three or four", "Ten"],
+    "answer": 2
+  },
+  {
+    "question": "Radioimmunoassay (RIA) is based on the principle of:",
+    "options": ["Non-competitive binding", "Competitive binding between natural and radioactive hormones", "Fluorescence", "Enzyme-substrate color change"],
+    "answer": 1
+  },
+  {
+    "question": "Which assay uses excess antibodies to 'capture' all hormone molecules and avoids radioactive isotopes?",
+    "options": ["Radioimmunoassay", "ELISA", "Spectrophotometry", "Chromatography"],
+    "answer": 1
+  },
+  {
+    "question": "The pituitary gland is also known as the:",
+    "options": ["Epiphysis", "Hypophysis", "Sella turcica", "Adenohypophysis"],
+    "answer": 1
+  },
+  {
+    "question": "The anterior pituitary originates embryologically from:",
+    "options": ["Neural tissue", "Rathke's pouch (pharyngeal epithelium)", "The hypothalamus", "Mesoderm"],
+    "answer": 1
+  },
+  {
+    "question": "The posterior pituitary originates embryologically from:",
+    "options": ["Rathke's pouch", "Endoderm", "A neural tissue outgrowth from the hypothalamus", "The sella turcica"],
+    "answer": 2
+  },
+  {
+    "question": "Which hormone is NOT secreted by the anterior pituitary?",
+    "options": ["Growth hormone", "ACTH", "Oxytocin", "Prolactin"],
+    "answer": 2
+  },
+  {
+    "question": "Antidiuretic hormone (ADH) is secreted by the:",
+    "options": ["Anterior pituitary", "Posterior pituitary", "Adrenal cortex", "Thyroid"],
+    "answer": 1
+  },
+  {
+    "question": "Which cell type in the anterior pituitary is responsible for secreting Growth Hormone?",
+    "options": ["Corticotropes", "Thyrotropes", "Somatotropes", "Lactotropes"],
+    "answer": 2
+  },
+  {
+    "question": "Somatotropes constitute what percentage of the anterior pituitary cells?",
+    "options": ["5%", "10-15%", "20%", "30-40%"],
+    "answer": 3
+  },
+  {
+    "question": "Corticotropes secrete which hormone?",
+    "options": ["TSH", "FSH", "ACTH", "Prolactin"],
+    "answer": 2
+  },
+  {
+    "question": "Posterior pituitary hormones are synthesized in cell bodies located in the:",
+    "options": ["Anterior pituitary", "Hypothalamus", "Median eminence", "Pineal gland"],
+    "answer": 1
+  },
+  {
+    "question": "What are the large neurons that synthesize posterior pituitary hormones called?",
+    "options": ["Somatotropes", "Pituicytes", "Magnocellular neurons", "Ganglion cells"],
+    "answer": 2
+  },
+  {
+    "question": "The anterior pituitary is controlled by hypothalamic hormones conducted through:",
+    "options": ["Direct nerve fibers", "Hypothalamic-hypophysial portal vessels", "The cerebrospinal fluid", "Lymphatic vessels"],
+    "answer": 1
+  },
+  {
+    "question": "The functional link between the hypothalamus and the anterior pituitary is the:",
+    "options": ["Sella turcica", "Optic chiasm", "Median eminence", "Mammillary body"],
+    "answer": 2
+  },
+  {
+    "question": "Which hypothalamic hormone stimulates the release of TSH?",
+    "options": ["GHRH", "CRH", "TRH", "GnRH"],
+    "answer": 2
+  },
+  {
+    "question": "Prolactin-inhibiting hormone (PIH) is chemically identical to:",
+    "options": ["Somatostatin", "Dopamine", "Epinephrine", "Serotonin"],
+    "answer": 1
+  },
+  {
+    "question": "Which hypothalamic hormone inhibits the secretion of Growth Hormone?",
+    "options": ["PIH", "GHRH", "Somatostatin", "TRH"],
+    "answer": 2
+  },
+  {
+    "question": "Growth hormone is a protein containing how many amino acids?",
+    "options": ["50", "191", "240", "39"],
+    "answer": 1
+  },
+  {
+    "question": "Unlike other anterior pituitary hormones, Growth Hormone primarily acts:",
+    "options": ["On a specific target gland", "Directly on almost all tissues of the body", "Only on the liver", "Only on bone"],
+    "answer": 1
+  },
+  {
+    "question": "GH enhances the body's protein by:",
+    "options": ["Increasing protein catabolism", "Decreasing amino acid transport", "Increasing the rate of protein synthesis in most cells", "Increasing urea formation"],
+    "answer": 2
+  },
+  {
+    "question": "How does Growth Hormone affect fat metabolism?",
+    "options": ["Increases fat storage", "Decreases fatty acid mobilization", "Increases mobilization of fatty acids from adipose tissue", "Inhibits acetyl-CoA formation"],
+    "answer": 2
+  },
+  {
+    "question": "Excessive GH can lead to a 'ketogenic' effect because:",
+    "options": ["It increases glucose utilization", "It causes excessive mobilization of fat and formation of acetoacetic acid", "It suppresses insulin secretion", "It damages the liver"],
+    "answer": 1
+  },
+  {
+    "question": "Which effect describes GH's influence on carbohydrate metabolism?",
+    "options": ["Insulin-sensitizing", "Diabetogenic (insulin resistance)", "Hypoglycemic", "Glycogenic"],
+    "answer": 1
+  },
+  {
+    "question": "Which substance is necessary for GH to be effective in promoting growth?",
+    "options": ["Glucagon", "Epinephrine", "Insulin", "Cortisol"],
+    "answer": 2
+  },
+  {
+    "question": "GH stimulates bone growth primarily by increasing the activity of:",
+    "options": ["Osteoclasts", "Chondrocytes and osteoblasts", "Red blood cells", "Fibroblasts"],
+    "answer": 1
+  },
+  {
+    "question": "Once the long bone epiphyses have fused, further lengthening is impossible because:",
+    "options": ["GH secretion stops", "Epiphyseal cartilage is replaced by bone", "Osteoblasts die", "IGF-1 becomes inactive"],
+    "answer": 1
+  },
+  {
+    "question": "GH exerts much of its effect through intermediate proteins called:",
+    "options": ["Aquaporins", "Somatomedins (IGFs)", "Neurophysins", "Cytokines"],
+    "answer": 1
+  },
+  {
+    "question": "The most important somatomedin for growth is:",
+    "options": ["IGF-1 (Somatomedin C)", "IGF-2", "Somatostatin", "Ghrelin"],
+    "answer": 0
+  },
+  {
+    "question": "Which condition is caused by a mutation of the GH receptor, leading to low IGF-1 levels?",
+    "options": ["Gigantism", "Acromegaly", "Laron syndrome (dwarfism)", "Panhypopituitarism"],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate half-life of GH in the blood?",
+    "options": ["6 minutes", "Less than 20 minutes", "20 hours", "2 days"],
+    "answer": 1
+  },
+  {
+    "question": "What is the half-life of IGF-1 in the blood, due to its strong binding to carrier proteins?",
+    "options": ["20 minutes", "1 hour", "20 hours", "74 days"],
+    "answer": 2
+  },
+  {
+    "question": "Which state is a potent acute stimulator of GH secretion?",
+    "options": ["Hyperglycemia", "Hypoglycemia", "Obesity", "Aging"],
+    "answer": 1
+  },
+  {
+    "question": "GH secretion is highest during which period?",
+    "options": ["Noon", "Late evening", "First 2 hours of deep sleep", "After a high-carbohydrate meal"],
+    "answer": 2
+  },
+  {
+    "question": "Which stomach-secreted hormone stimulates GH secretion before meals?",
+    "options": ["Leptin", "Gastrin", "Ghrelin", "Secretin"],
+    "answer": 2
+  },
+  {
+    "question": "In chronic conditions, GH secretion correlates most closely with:",
+    "options": ["Glucose levels", "Degree of cellular protein depletion", "Blood pressure", "Body temperature"],
+    "answer": 1
+  },
+  {
+    "question": "Generalized deficiency of all anterior pituitary hormones is called:",
+    "options": ["Hypothyroidism", "Addison's disease", "Panhypopituitarism", "Cushing's syndrome"],
+    "answer": 2
+  },
+  {
+    "question": "Dwarfism in which only GH is deficient occurs in about what fraction of cases?",
+    "options": ["One-tenth", "One-third", "One-half", "All cases"],
+    "answer": 1
+  },
+  {
+    "question": "Gigantism occurs when GH excess happens:",
+    "options": ["After adolescence", "Before adolescence", "Only in females", "Due to low insulin"],
+    "answer": 1
+  },
+  {
+    "question": "Acromegaly is characterized by bone thickening and soft tissue growth occurring:",
+    "options": ["Before birth", "During early childhood", "After the epiphyses have fused (post-adolescence)", "Only in the legs"],
+    "answer": 2
+  },
+  {
+    "question": "Which bone is notably stimulated to grow forward in acromegaly?",
+    "options": ["Femur", "Lower jaw (mandible)", "Humerus", "Ribs"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary function of pituicytes in the posterior pituitary?",
+    "options": ["Secreting ADH", "Secreting oxytocin", "Supporting structure for nerve fibers", "Controlling the portal system"],
+    "answer": 2
+  },
+  {
+    "question": "Hormones are transported from the hypothalamus to the posterior pituitary via:",
+    "options": ["Portal blood", "Axoplasm of nerve fibers", "Lymphatic vessels", "Simple diffusion"],
+    "answer": 1
+  },
+  {
+    "question": "What are the 'carrier' proteins for posterior pituitary hormones called?",
+    "options": ["Albumins", "Globulins", "Neurophysins", "Somatomedins"],
+    "answer": 2
+  },
+  {
+    "question": "ADH is formed primarily in which hypothalamic nucleus?",
+    "options": ["Paraventricular", "Supraoptic", "Arcuate", "Ventromedial"],
+    "answer": 1
+  },
+  {
+    "question": "Oxytocin is formed primarily in which hypothalamic nucleus?",
+    "options": ["Supraoptic", "Paraventricular", "Periventricular", "Preoptic"],
+    "answer": 1
+  },
+  {
+    "question": "Vasopressin and Oxytocin are both polypeptides containing how many amino acids?",
+    "options": ["Three", "Nine", "191", "39"],
+    "answer": 1
+  },
+  {
+    "question": "The primary target of ADH is the:",
+    "options": ["Adrenal cortex", "Uterus", "Collecting tubules and ducts of the kidneys", "Mammary glands"],
+    "answer": 2
+  },
+  {
+    "question": "ADH increases water reabsorption by triggering the insertion of:",
+    "options": ["Sodium channels", "Aquaporins", "Glucose transporters", "Potassium pumps"],
+    "answer": 1
+  },
+  {
+    "question": "Which stimulus most powerfully increases ADH secretion?",
+    "options": ["Low blood glucose", "Increased extracellular fluid osmolarity", "High blood pressure", "Cold temperature"],
+    "answer": 1
+  },
+  {
+    "question": "Osmoreceptors that detect fluid concentration are located in or near the:",
+    "options": ["Kidneys", "Heart", "Hypothalamus", "Carotid sinus"],
+    "answer": 2
+  },
+  {
+    "question": "Which hormone causes contraction of the pregnant uterus and aids in labor?",
+    "options": ["ADH", "Prolactin", "Oxytocin", "Estrogen"],
+    "answer": 2
+  },
+  {
+    "question": "The process where oxytocin causes milk to be expressed from alveoli into the ducts is called:",
+    "options": ["Lactogenesis", "Milk letdown (or ejection)", "Capacitation", "Organification"],
+    "answer": 1
   }
 ]
