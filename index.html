@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Multi-Bank Interactive Quiz</title>
+    <title>Medical Q-Bank</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <div class="quiz-container">
-        <h1>Interactive Quiz</h1>
+        <h1>Interactive Q-Bank</h1>
         
         <label for="bank-selector">Choose a Question Bank:</label>
         <select id="bank-selector" onchange="loadSelectedBank()">
-            <option value="questions.json">General Questions</option>
-            <option value="neuro_questions.json">Neuroscience</option>
-            <option value="cardio_questions.json">Cardiology</option>
+            <option value="qbanks/general.json">General Medicine</option>
+            <option value="qbanks/neuroscience.json">Neuroscience</option>
+            <option value="qbanks/cardiology.json">Cardiology</option>
         </select>
 
         <hr>
