@@ -1,36 +1,50 @@
-// 1. Fetch the questions from the JSON file
-fetch('questions.json')
-    .then(response => response.json())
-    .then(data => {
-        const quizContainer = document.getElementById('quiz');
+// Function to load the quiz based on the dropdown selection
+function loadSelectedBank() {
+    const fileName = document.getElementById('bank-selector').value;
+    const quizContainer = document.getElementById('quiz');
+    
+    // Clear the current questions
+    quizContainer.innerHTML = "Loading...";
 
-        data.forEach((item, qIndex) => {
-            // Create a div for each question
-            const qDiv = document.createElement('div');
-            qDiv.className = 'question-block';
-            qDiv.innerHTML = `<h3>${item.question}</h3>`;
+    fetch(fileName)
+        .then(response => response.json())
+        .then(data => {
+            quizContainer.innerHTML = ""; // Clear the loading text
 
-            // Create buttons for each option
-            item.options.forEach((option, oIndex) => {
-                const btn = document.createElement('button');
-                btn.innerText = option;
-                
-                btn.onclick = () => {
-                    // Check if the clicked option index matches the answer index
-                    if (oIndex === item.answer) {
-                        btn.className = 'correct';
-                    } else {
-                        btn.className = 'wrong';
-                    }
+            data.forEach((item, qIndex) => {
+                const qDiv = document.createElement('div');
+                qDiv.className = 'question-block';
+                qDiv.innerHTML = `<h3>${item.question}</h3>`;
+
+                item.options.forEach((option, oIndex) => {
+                    const btn = document.createElement('button');
+                    btn.innerText = option;
                     
-                    // Disable all buttons in this question block after an answer is chosen
-                    const siblingButtons = qDiv.querySelectorAll('button');
-                    siblingButtons.forEach(b => b.disabled = true);
-                };
-                
-                qDiv.appendChild(btn);
-            });
+                    btn.onclick = () => {
+                        // 1. Remove "correct" or "wrong" from ALL buttons in this specific question
+                        const allButtonsInThisQuestion = qDiv.querySelectorAll('button');
+                        allButtonsInThisQuestion.forEach(b => {
+                            b.classList.remove('correct', 'wrong');
+                        });
 
-            quizContainer.appendChild(qDiv);
+                        // 2. Check if the selection is right or wrong
+                        if (oIndex === item.answer) {
+                            btn.classList.add('correct');
+                        } else {
+                            btn.classList.add('wrong');
+                        }
+                    };
+                    
+                    qDiv.appendChild(btn);
+                });
+
+                quizContainer.appendChild(qDiv);
+            });
+        })
+        .catch(error => {
+            quizContainer.innerHTML = "Error loading file. Make sure the filename is correct.";
         });
-    });
+}
+
+// Load the default bank when the page first opens
+window.onload = loadSelectedBank;
