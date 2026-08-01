@@ -1,760 +1,760 @@
 [
   {
-    "question": "Question # 1: A 5-year-old boy is brought to the physician by his parents because of a 6-week history of increased tiredness, irritability, and worsening leg pain. His parents report that he has been reluctant to walk recently because of the pain in his legs. Examination shows conjunctival pallor and diffuse petechiae. There are palpable, nontender posterior cervical and axillary lymph nodes. His hemoglobin concentration is 8.9 g/dL, leukocyte count is 45,750/mm³, and platelet count is 25,000/mm³. A bone marrow aspiration shows numerous immature cells that stain positive for CD10, CD19, and terminal deoxynucleotidyl transferase (TdT). Which of the following translocations is associated with a favorable prognosis for this patient's condition?[cite: 1]",
+    "question": "Question # 1: A 5-year-old boy is brought to the physician by his parents because of a 6-week history of increased tiredness, irritability, and worsening leg pain. His parents report that he has been reluctant to walk recently because of the pain in his legs. Examination shows conjunctival pallor and diffuse petechiae. There are palpable, nontender posterior cervical and axillary lymph nodes. His hemoglobin concentration is 8.9 g/dL, leukocyte count is 45,750/mm³, and platelet count is 25,000/mm³. A bone marrow aspiration shows numerous immature cells that stain positive for CD10, CD19, and terminal deoxynucleotidyl transferase (TdT). Which of the following translocations is associated with a favorable prognosis for this patient's condition?",
     "options": [
-      "t(12;21)[cite: 1]",
-      "t(15;17)[cite: 1]",
-      "t(8;14)[cite: 1]",
-      "t(14;18)[cite: 1]",
-      "t(9;22)[cite: 1]"
+      "t(12;21)",
+      "t(15;17)",
+      "t(8;14)",
+      "t(14;18)",
+      "t(9;22)"
     ],
     "answer": 0,
     "choice_explanations": {
-      "A": "Translocation t(12;21) is the most common chromosomal rearrangement in childhood B-ALL and is associated with a favorable prognosis[cite: 1]. Further positive prognostic factors are leukocyte count < 50,000/mm³, no CNS involvement, and hyperploidy[cite: 1].",
-      "B": "Translocation t(15;17) is associated with acute promyelocytic leukemia (APL), which is not the diagnosis here[cite: 1].",
-      "C": "Translocation t(8;14) is associated with Burkitt lymphoma, not B-ALL[cite: 1].",
-      "D": "Translocation t(14;18) is associated with follicular lymphoma and diffuse large B-cell lymphoma[cite: 1].",
-      "E": "Translocation t(9;22) (Philadelphia chromosome) is seen in ALL, but it is an unfavorable prognostic factor[cite: 1]."
+      "A": "Translocation t(12;21) is the most common chromosomal rearrangement in childhood B-ALL and is associated with a favorable prognosis. Further positive prognostic factors are leukocyte count < 50,000/mm³, no CNS involvement, and hyperploidy.",
+      "B": "Translocation t(15;17) is associated with acute promyelocytic leukemia (APL), which is not the diagnosis here.",
+      "C": "Translocation t(8;14) is associated with Burkitt lymphoma, not B-ALL.",
+      "D": "Translocation t(14;18) is associated with follicular lymphoma and diffuse large B-cell lymphoma.",
+      "E": "Translocation t(9;22) (Philadelphia chromosome) is seen in ALL, but it is an unfavorable prognostic factor."
     }
   },
   {
-    "question": "Question # 2: Seven days after undergoing bilateral total knee arthroplasty, a 65-year-old man comes to the physician with a dark discoloration and blisters on his abdomen[cite: 1]. Current medications include simvastatin, aspirin, and low molecular weight heparin[cite: 1]. His vital signs are within normal limits[cite: 1]. Examination of the skin shows multiple coalescing blisters with areas of necrosis around the umbilicus[cite: 1]. Laboratory studies show a platelet count of 32,000/mm³[cite: 1]. Which of the following is the most likely underlying cause of this patient's symptoms?[cite: 1]",
+    "question": "Question # 2: Seven days after undergoing bilateral total knee arthroplasty, a 65-year-old man comes to the physician with a dark discoloration and blisters on his abdomen. Current medications include simvastatin, aspirin, and low molecular weight heparin. His vital signs are within normal limits. Examination of the skin shows multiple coalescing blisters with areas of necrosis around the umbilicus. Laboratory studies show a platelet count of 32,000/mm³. Which of the following is the most likely underlying cause of this patient's symptoms?",
     "options": [
-      "Anti-desmoglein antibody formation[cite: 1]",
-      "Deficiency in ADAMTS13 activity[cite: 1]",
-      "Antibody formation against heparin-PF4 complex[cite: 1]",
-      "Antibody-platelet antigen complex formation[cite: 1]",
-      "Deficiency in vitamin K[cite: 1]",
-      "Decreased production of GpIb[cite: 1]"
+      "Anti-desmoglein antibody formation",
+      "Deficiency in ADAMTS13 activity",
+      "Antibody formation against heparin-PF4 complex",
+      "Antibody-platelet antigen complex formation",
+      "Deficiency in vitamin K",
+      "Decreased production of GpIb"
     ],
     "answer": 2,
     "choice_explanations": {
-      "A": "Anti-desmoglein antibodies cause pemphigus vulgaris, which typically starts in oral mucosa and does not affect platelet count[cite: 1].",
-      "B": "ADAMTS13 deficiency causes thrombotic thrombocytopenic purpura (TTP), which usually features fever and neurological symptoms[cite: 1].",
-      "C": "Heparin-induced thrombocytopenia type 2 (HIT II) is caused by IgG autoantibodies against heparin-PF4 complexes, leading to thrombosis and skin necrosis at injection sites[cite: 1].",
-      "D": "Antibody-platelet antigen complexes cause immune thrombocytopenic purpura (ITP), which presents with bleeding/bruising rather than skin necrosis[cite: 1].",
-      "E": "Vitamin K deficiency impairs clotting factors II, VII, IX, and X, leading to bleeding without affecting platelet count[cite: 1].",
-      "F": "Decreased GpIb causes Bernard-Soulier syndrome, an inherited adhesion disorder presenting with bleeding diathesis[cite: 1]."
+      "A": "Anti-desmoglein antibodies cause pemphigus vulgaris, which typically starts in oral mucosa and does not affect platelet count.",
+      "B": "ADAMTS13 deficiency causes thrombotic thrombocytopenic purpura (TTP), which usually features fever and neurological symptoms.",
+      "C": "Heparin-induced thrombocytopenia type 2 (HIT II) is caused by IgG autoantibodies against heparin-PF4 complexes, leading to thrombosis and skin necrosis at injection sites.",
+      "D": "Antibody-platelet antigen complexes cause immune thrombocytopenic purpura (ITP), which presents with bleeding/bruising rather than skin necrosis.",
+      "E": "Vitamin K deficiency impairs clotting factors II, VII, IX, and X, leading to bleeding without affecting platelet count.",
+      "F": "Decreased GpIb causes Bernard-Soulier syndrome, an inherited adhesion disorder presenting with bleeding diathesis."
     }
   },
   {
-    "question": "Question # 3: A 65-year-old man comes to the physician because of a 6-month history of progressive fatigue and abdominal pain[cite: 1]. Physical examination shows pale mucous membranes and splenomegaly[cite: 1]. Hemoglobin concentration is 9.1 g/dL and leukocyte count is 3,400/mm³[cite: 1]. Peripheral blood smear shows nucleated red blood cells and teardrop poikilocytosis[cite: 1]. A Janus kinase 2 gene mutation is present[cite: 1]. Which of the following is the most likely underlying mechanism of this patient's condition?[cite: 1]",
+    "question": "Question # 3: A 65-year-old man comes to the physician because of a 6-month history of progressive fatigue and abdominal pain. Physical examination shows pale mucous membranes and splenomegaly. Hemoglobin concentration is 9.1 g/dL and leukocyte count is 3,400/mm³. Peripheral blood smear shows nucleated red blood cells and teardrop poikilocytosis. A Janus kinase 2 gene mutation is present. Which of the following is the most likely underlying mechanism of this patient's condition?",
     "options": [
-      "Viral replication in lymphoid cells[cite: 1]",
-      "Lymphocytic infiltration of reticuloendothelial system[cite: 1]",
-      "Fibrosis in the bone marrow[cite: 1]",
-      "Translocation between chromosome 9 and 22[cite: 1]",
-      "Elevated levels of circulating hepcidin[cite: 1]"
+      "Viral replication in lymphoid cells",
+      "Lymphocytic infiltration of reticuloendothelial system",
+      "Fibrosis in the bone marrow",
+      "Translocation between chromosome 9 and 22",
+      "Elevated levels of circulating hepcidin"
     ],
     "answer": 2,
     "choice_explanations": {
-      "A": "Viral replication in B cells occurs in Epstein-Barr virus infection, which presents with atypical lymphocytes rather than teardrop cells[cite: 1].",
-      "B": "Lymphocytic infiltration occurs in hairy cell leukemia, which shows 'hairy' cells on smear and lacks JAK2 association[cite: 1].",
-      "C": "Bone marrow fibrosis characterizes primary myelofibrosis, which features teardrop cells (dacrocytes), splenomegaly, and JAK2 mutations (~50% of cases)[cite: 1].",
-      "D": "Translocation t(9;22) causes chronic myeloid leukemia (CML), which typically presents with marked leukocytosis rather than leukopenia[cite: 1].",
-      "E": "Elevated hepcidin causes anemia of chronic disease without splenomegaly, leukopenia, or JAK2 mutations[cite: 1]."
+      "A": "Viral replication in B cells occurs in Epstein-Barr virus infection, which presents with atypical lymphocytes rather than teardrop cells.",
+      "B": "Lymphocytic infiltration occurs in hairy cell leukemia, which shows 'hairy' cells on smear and lacks JAK2 association.",
+      "C": "Bone marrow fibrosis characterizes primary myelofibrosis, which features teardrop cells (dacrocytes), splenomegaly, and JAK2 mutations (~50% of cases).",
+      "D": "Translocation t(9;22) causes chronic myeloid leukemia (CML), which typically presents with marked leukocytosis rather than leukopenia.",
+      "E": "Elevated hepcidin causes anemia of chronic disease without splenomegaly, leukopenia, or JAK2 mutations."
     }
   },
   {
-    "question": "Question # 4: Three days after starting a new drug for malaria prophylaxis, a 19-year-old college student comes to the physician because of dark-colored urine and fatigue[cite: 1]. He has not had any fever, dysuria, or abdominal pain[cite: 1]. Physical examination shows scleral icterus[cite: 1]. Laboratory studies show a hemoglobin of 9.7 g/dL and serum lactate dehydrogenase of 284 U/L[cite: 1]. Peripheral blood smear shows poikilocytes with bite-shaped irregularities[cite: 1]. Which of the following drugs has the patient most likely been taking?[cite: 1]",
+    "question": "Question # 4: Three days after starting a new drug for malaria prophylaxis, a 19-year-old college student comes to the physician because of dark-colored urine and fatigue. He has not had any fever, dysuria, or abdominal pain. Physical examination shows scleral icterus. Laboratory studies show a hemoglobin of 9.7 g/dL and serum lactate dehydrogenase of 284 U/L. Peripheral blood smear shows poikilocytes with bite-shaped irregularities. Which of the following drugs has the patient most likely been taking?",
     "options": [
-      "Pyrimethamine[cite: 1]",
-      "Atovaquone[cite: 1]",
-      "Primaquine[cite: 1]",
-      "Dapsone[cite: 1]",
-      "Ivermectin[cite: 1]",
-      "Doxycycline[cite: 1]",
-      "Mebendazole[cite: 1]"
+      "Pyrimethamine",
+      "Atovaquone",
+      "Primaquine",
+      "Dapsone",
+      "Ivermectin",
+      "Doxycycline",
+      "Mebendazole"
     ],
     "answer": 2,
     "choice_explanations": {
-      "A": "Pyrimethamine is used for malaria treatment (not prophylaxis) and does not trigger G6PD hemolysis[cite: 1].",
-      "B": "Atovaquone is used for prophylaxis/treatment but does not precipitate G6PD hemolytic anemia[cite: 1].",
-      "C": "Primaquine causes oxidative stress in RBCs and triggers acute hemolytic anemia with bite cells/Heinz bodies in G6PD deficiency[cite: 1].",
-      "D": "Dapsone can trigger G6PD hemolysis, but it is an antibiotic not used for malaria prophylaxis[cite: 1].",
-      "E": "Ivermectin is an antihelminthic drug with no antimalarial indication or G6PD risk[cite: 1].",
-      "F": "Doxycycline is used for prophylaxis but does not cause oxidative hemolysis[cite: 1].",
-      "G": "Mebendazole is an antihelminthic that inhibits microtubules and does not precipitate G6PD hemolysis[cite: 1]."
+      "A": "Pyrimethamine is used for malaria treatment (not prophylaxis) and does not trigger G6PD hemolysis.",
+      "B": "Atovaquone is used for prophylaxis/treatment but does not precipitate G6PD hemolytic anemia.",
+      "C": "Primaquine causes oxidative stress in RBCs and triggers acute hemolytic anemia with bite cells/Heinz bodies in G6PD deficiency.",
+      "D": "Dapsone can trigger G6PD hemolysis, but it is an antibiotic not used for malaria prophylaxis.",
+      "E": "Ivermectin is an antihelminthic drug with no antimalarial indication or G6PD risk.",
+      "F": "Doxycycline is used for prophylaxis but does not cause oxidative hemolysis.",
+      "G": "Mebendazole is an antihelminthic that inhibits microtubules and does not precipitate G6PD hemolysis."
     }
   },
   {
-    "question": "Question # 5: A 42-year-old woman presents with progressive difficulty swallowing solid foods, fatigue, dyspnea, conjunctival pallor, angular cheilitis, and spoon-shaped, brittle fingernails (koilonychia)[cite: 1]. Endoscopy reveals upper esophageal webs[cite: 1]. Further evaluation is most likely to show:[cite: 1]",
+    "question": "Question # 5: A 42-year-old woman presents with progressive difficulty swallowing solid foods, fatigue, dyspnea, conjunctival pallor, angular cheilitis, and spoon-shaped, brittle fingernails (koilonychia). Endoscopy reveals upper esophageal webs. Further evaluation is most likely to show:",
     "options": [
-      "Altered sense of smell[cite: 1]",
-      "Hair loss[cite: 1]",
-      "Thickening of the skin[cite: 1]",
-      "Loss of vibratory sense in the lower limbs[cite: 1]",
-      "Eosinophilic infiltration of the esophagus[cite: 1]",
-      "Craving for non-nutritive substances[cite: 1]"
+      "Altered sense of smell",
+      "Hair loss",
+      "Thickening of the skin",
+      "Loss of vibratory sense in the lower limbs",
+      "Eosinophilic infiltration of the esophagus",
+      "Craving for non-nutritive substances"
     ],
     "answer": 5,
     "choice_explanations": {
-      "A": "Altered sense of smell occurs in zinc deficiency, which does not cause esophageal webs[cite: 1].",
-      "B": "Hair loss occurs in hypothyroidism, which lacks esophageal webs or spoon-shaped nails[cite: 1].",
-      "C": "Skin thickening occurs in scleroderma, which causes esophageal dysmotility rather than upper esophageal webs[cite: 1].",
-      "D": "Loss of vibratory sense is seen in B12 deficiency (subacute combined degeneration), which causes macrocytic anemia[cite: 1].",
-      "E": "Eosinophilic esophagitis shows mucosal concentric rings/furrows on endoscopy rather than webs[cite: 1].",
-      "F": "Craving non-nutritive substances (pica) is associated with iron deficiency anemia, the core driver of Plummer-Vinson syndrome[cite: 1]."
+      "A": "Altered sense of smell occurs in zinc deficiency, which does not cause esophageal webs.",
+      "B": "Hair loss occurs in hypothyroidism, which lacks esophageal webs or spoon-shaped nails.",
+      "C": "Skin thickening occurs in scleroderma, which causes esophageal dysmotility rather than upper esophageal webs.",
+      "D": "Loss of vibratory sense is seen in B12 deficiency (subacute combined degeneration), which causes macrocytic anemia.",
+      "E": "Eosinophilic esophagitis shows mucosal concentric rings/furrows on endoscopy rather than webs.",
+      "F": "Craving non-nutritive substances (pica) is associated with iron deficiency anemia, the core driver of Plummer-Vinson syndrome."
     }
   },
   {
-    "question": "Question # 6: A 6-year-old girl post-kidney transplant develops a leukocyte count of 17,500/mm³ (90% segmented neutrophils, 4% bands) two days after starting a new immunosuppressive medication[cite: 1]. Which drug caused this?[cite: 1]",
+    "question": "Question # 6: A 6-year-old girl post-kidney transplant develops a leukocyte count of 17,500/mm³ (90% segmented neutrophils, 4% bands) two days after starting a new immunosuppressive medication. Which drug caused this?",
     "options": [
-      "Rituximab[cite: 1]",
-      "Methylprednisolone[cite: 1]",
-      "Abciximab[cite: 1]",
-      "Ganciclovir[cite: 1]",
-      "Erythropoietin[cite: 1]",
-      "Tacrolimus[cite: 1]"
+      "Rituximab",
+      "Methylprednisolone",
+      "Abciximab",
+      "Ganciclovir",
+      "Erythropoietin",
+      "Tacrolimus"
     ],
     "answer": 1,
     "choice_explanations": {
-      "A": "Rituximab depletes CD20+ B cells and can cause leukopenia[cite: 1].",
-      "B": "Methylprednisolone causes demargination of neutrophils from endothelial walls, leading to leukocytosis without a left shift[cite: 1].",
-      "C": "Abciximab is a GPIIb/IIIa inhibitor that causes bleeding, not leukocytosis[cite: 1].",
-      "D": "Ganciclovir is an antiviral that causes bone marrow suppression (neutropenia)[cite: 1].",
-      "E": "Erythropoietin stimulates red blood cell lines, not white blood cells[cite: 1].",
-      "F": "Tacrolimus inhibits IL-2 and can cause neutropenia, not neutrophilia[cite: 1]."
+      "A": "Rituximab depletes CD20+ B cells and can cause leukopenia.",
+      "B": "Methylprednisolone causes demargination of neutrophils from endothelial walls, leading to leukocytosis without a left shift.",
+      "C": "Abciximab is a GPIIb/IIIa inhibitor that causes bleeding, not leukocytosis.",
+      "D": "Ganciclovir is an antiviral that causes bone marrow suppression (neutropenia).",
+      "E": "Erythropoietin stimulates red blood cell lines, not white blood cells.",
+      "F": "Tacrolimus inhibits IL-2 and can cause neutropenia, not neutrophilia."
     }
   },
   {
-    "question": "Question # 7: A 63-year-old man presents with fever, night sweats, a new systolic murmur, and tender nodules on his finger pads (Osler nodes)[cite: 1]. Blood cultures reveal alpha-hemolytic, catalase-negative, optochin-resistant gram-positive cocci[cite: 1]. What is the organism?[cite: 1]",
+    "question": "Question # 7: A 63-year-old man presents with fever, night sweats, a new systolic murmur, and tender nodules on his finger pads (Osler nodes). Blood cultures reveal alpha-hemolytic, catalase-negative, optochin-resistant gram-positive cocci. What is the organism?",
     "options": [
-      "Staphylococcus aureus[cite: 1]",
-      "Streptococcus pyogenes[cite: 1]",
-      "Streptococcus gallolyticus[cite: 1]",
-      "Streptococcus pneumoniae[cite: 1]",
-      "Staphylococcus epidermidis[cite: 1]",
-      "Viridans streptococci[cite: 1]"
+      "Staphylococcus aureus",
+      "Streptococcus pyogenes",
+      "Streptococcus gallolyticus",
+      "Streptococcus pneumoniae",
+      "Staphylococcus epidermidis",
+      "Viridans streptococci"
     ],
     "answer": 5,
     "choice_explanations": {
-      "A": "Staphylococcus aureus is catalase-positive and beta-hemolytic[cite: 1].",
-      "B": "Streptococcus pyogenes is beta-hemolytic[cite: 1].",
-      "C": "Streptococcus gallolyticus is typically gamma/beta-hemolytic[cite: 1].",
-      "D": "Streptococcus pneumoniae is alpha-hemolytic but optochin-sensitive[cite: 1].",
-      "E": "Staphylococcus epidermidis is catalase-positive and non-hemolytic[cite: 1].",
-      "F": "Viridans streptococci are alpha-hemolytic, catalase-negative, optochin-resistant cocci causing subacute endocarditis[cite: 1]."
+      "A": "Staphylococcus aureus is catalase-positive and beta-hemolytic.",
+      "B": "Streptococcus pyogenes is beta-hemolytic.",
+      "C": "Streptococcus gallolyticus is typically gamma/beta-hemolytic.",
+      "D": "Streptococcus pneumoniae is alpha-hemolytic but optochin-sensitive.",
+      "E": "Staphylococcus epidermidis is catalase-positive and non-hemolytic.",
+      "F": "Viridans streptococci are alpha-hemolytic, catalase-negative, optochin-resistant cocci causing subacute endocarditis."
     }
   },
   {
-    "question": "Question # 8: A 38-year-old male landscaper with chronic Hepatitis C and alcohol use presents with painless blisters, erosions, and hyperpigmentation on sun-exposed skin[cite: 1]. This condition is associated with accumulation of:[cite: 1]",
+    "question": "Question # 8: A 38-year-old male landscaper with chronic Hepatitis C and alcohol use presents with painless blisters, erosions, and hyperpigmentation on sun-exposed skin. This condition is associated with accumulation of:",
     "options": [
-      "Protoporphyrin[cite: 1]",
-      "Porphobilinogen[cite: 1]",
-      "Delta-aminolevulinic acid[cite: 1]",
-      "Uroporphyrinogen III[cite: 1]",
-      "Unconjugated bilirubin[cite: 1]",
-      "Conjugated bilirubin[cite: 1]"
+      "Protoporphyrin",
+      "Porphobilinogen",
+      "Delta-aminolevulinic acid",
+      "Uroporphyrinogen III",
+      "Unconjugated bilirubin",
+      "Conjugated bilirubin"
     ],
     "answer": 3,
     "choice_explanations": {
-      "A": "Protoporphyrin is elevated in erythropoietic protoporphyria, which causes non-blistering photosensitivity[cite: 1].",
-      "B": "Porphobilinogen accumulates in acute intermittent porphyria (AIP), causing neuro/abdominal symptoms[cite: 1].",
-      "C": "Delta-ALA accumulates in lead poisoning and AIP without cutaneous blistering[cite: 1].",
-      "D": "Uroporphyrinogen III accumulates in Porphyria Cutanea Tarda (PCT) due to uroporphyrinogen decarboxylase deficiency, driving blistering photosensitivity[cite: 1].",
-      "E": "Unconjugated bilirubin causes jaundice rather than cutaneous blistering[cite: 1].",
-      "F": "Conjugated bilirubin accumulates in cholestasis/liver injury and causes scleral icterus[cite: 1]."
+      "A": "Protoporphyrin is elevated in erythropoietic protoporphyria, which causes non-blistering photosensitivity.",
+      "B": "Porphobilinogen accumulates in acute intermittent porphyria (AIP), causing neuro/abdominal symptoms.",
+      "C": "Delta-ALA accumulates in lead poisoning and AIP without cutaneous blistering.",
+      "D": "Uroporphyrinogen III accumulates in Porphyria Cutanea Tarda (PCT) due to uroporphyrinogen decarboxylase deficiency, driving blistering photosensitivity.",
+      "E": "Unconjugated bilirubin causes jaundice rather than cutaneous blistering.",
+      "F": "Conjugated bilirubin accumulates in cholestasis/liver injury and causes scleral icterus."
     }
   },
   {
-    "question": "Question # 9: A 31-year-old male develops blisters on his face/hands and tea-colored urine after sun exposure[cite: 1]. Which enzyme is defective?[cite: 1]",
+    "question": "Question # 9: A 31-year-old male develops blisters on his face/hands and tea-colored urine after sun exposure. Which enzyme is defective?",
     "options": [
-      "Aminolevulinic acid dehydratase[cite: 1]",
-      "Uroporphyrinogen III synthase[cite: 1]",
-      "Porphobilinogen deaminase[cite: 1]",
-      "Uroporphyrinogen III decarboxylase[cite: 1]",
-      "Aminolevulinic acid synthase[cite: 1]"
+      "Aminolevulinic acid dehydratase",
+      "Uroporphyrinogen III synthase",
+      "Porphobilinogen deaminase",
+      "Uroporphyrinogen III decarboxylase",
+      "Aminolevulinic acid synthase"
     ],
     "answer": 3,
     "choice_explanations": {
-      "A": "ALA dehydratase deficiency causes abdominal/neurological symptoms without blistering[cite: 1].",
-      "B": "Uroporphyrinogen III synthase defect causes congenital erythropoietic porphyria, presenting severely in early childhood[cite: 1].",
-      "C": "Porphobilinogen deaminase defect causes acute intermittent porphyria (AIP), which lacks skin blistering[cite: 1].",
-      "D": "Uroporphyrinogen III decarboxylase deficiency causes Porphyria Cutanea Tarda (PCT), presenting with sun-induced blistering and dark urine[cite: 1].",
-      "E": "ALA synthase deficiency causes sideroblastic anemia[cite: 1]."
+      "A": "ALA dehydratase deficiency causes abdominal/neurological symptoms without blistering.",
+      "B": "Uroporphyrinogen III synthase defect causes congenital erythropoietic porphyria, presenting severely in early childhood.",
+      "C": "Porphobilinogen deaminase defect causes acute intermittent porphyria (AIP), which lacks skin blistering.",
+      "D": "Uroporphyrinogen III decarboxylase deficiency causes Porphyria Cutanea Tarda (PCT), presenting with sun-induced blistering and dark urine.",
+      "E": "ALA synthase deficiency causes sideroblastic anemia."
     }
   },
   {
-    "question": "Question # 10: A 7-year-old girl presents with lethargy, microcytic anemia (Hb 9.2 g/dL, MCV 76 µm³), and a stool mount showing an oval egg with internal segmentation[cite: 1]. Which parasite is responsible?[cite: 1]",
+    "question": "Question # 10: A 7-year-old girl presents with lethargy, microcytic anemia (Hb 9.2 g/dL, MCV 76 µm³), and a stool mount showing an oval egg with internal segmentation. Which parasite is responsible?",
     "options": [
-      "Necator americanus[cite: 1]",
-      "Ascaris lumbricoides[cite: 1]",
-      "Enterobius vermicularis[cite: 1]",
-      "Diphyllobothrium latum[cite: 1]",
-      "Trichuris trichiura[cite: 1]",
-      "Taenia solium[cite: 1]"
+      "Necator americanus",
+      "Ascaris lumbricoides",
+      "Enterobius vermicularis",
+      "Diphyllobothrium latum",
+      "Trichuris trichiura",
+      "Taenia solium"
     ],
     "answer": 0,
     "choice_explanations": {
-      "A": "Necator americanus (hookworm) penetrates skin and attaches to intestinal walls, causing chronic blood loss and iron deficiency anemia[cite: 1].",
-      "B": "Ascaris lumbricoides eggs have a knobby coat and typically cause GI/pulmonary symptoms[cite: 1].",
-      "C": "Enterobius vermicularis (pinworm) causes nocturnal perianal pruritus; eggs are flattened on one side[cite: 1].",
-      "D": "Diphyllobothrium latum causes Vitamin B12 deficiency (macrocytic anemia)[cite: 1].",
-      "E": "Trichuris trichiura (whipworm) eggs are barrel-shaped with bipolar plugs[cite: 1].",
-      "F": "Taenia solium eggs are round with a striated border and cause neurocysticercosis or intestinal infection[cite: 1]."
+      "A": "Necator americanus (hookworm) penetrates skin and attaches to intestinal walls, causing chronic blood loss and iron deficiency anemia.",
+      "B": "Ascaris lumbricoides eggs have a knobby coat and typically cause GI/pulmonary symptoms.",
+      "C": "Enterobius vermicularis (pinworm) causes nocturnal perianal pruritus; eggs are flattened on one side.",
+      "D": "Diphyllobothrium latum causes Vitamin B12 deficiency (macrocytic anemia).",
+      "E": "Trichuris trichiura (whipworm) eggs are barrel-shaped with bipolar plugs.",
+      "F": "Taenia solium eggs are round with a striated border and cause neurocysticercosis or intestinal infection."
     }
   },
   {
-    "question": "Question # 11: A 64-year-old woman with splenomegaly, marked leukocytosis, thrombocytosis, and a BCR-ABL fusion gene should be treated with a drug operating via which mechanism?[cite: 1]",
+    "question": "Question # 11: A 64-year-old woman with splenomegaly, marked leukocytosis, thrombocytosis, and a BCR-ABL fusion gene should be treated with a drug operating via which mechanism?",
     "options": [
-      "Tyrosine kinase inhibitor[cite: 1]",
-      "Monoclonal anti-EGFR antibody[cite: 1]",
-      "Topoisomerase II inhibitor[cite: 1]",
-      "Monoclonal anti-CD20 antibody[cite: 1]",
-      "Monoclonal anti-HER-2 antibody[cite: 1]",
-      "Ribonucleotide reductase inhibitor[cite: 1]"
+      "Tyrosine kinase inhibitor",
+      "Monoclonal anti-EGFR antibody",
+      "Topoisomerase II inhibitor",
+      "Monoclonal anti-CD20 antibody",
+      "Monoclonal anti-HER-2 antibody",
+      "Ribonucleotide reductase inhibitor"
     ],
     "answer": 0,
     "choice_explanations": {
-      "A": "Tyrosine kinase inhibitors (Imatinib) target the active ATP-binding site of the abnormal BCR-ABL protein in CML[cite: 1].",
-      "B": "Anti-EGFR antibodies (Cetuximab) are used for colorectal and head/neck cancers[cite: 1].",
-      "C": "Topoisomerase II inhibitors (Etoposide) are used in lung/testicular cancers and lymphomas[cite: 1].",
-      "D": "Anti-CD20 antibodies (Rituximab) target B-cell malignancies[cite: 1].",
-      "E": "Anti-HER2 antibodies (Trastuzumab) target HER2+ breast/gastric cancer[cite: 1].",
-      "F": "Ribonucleotide reductase inhibitors (Hydroxyurea) decrease leukocytosis but are second-line[cite: 1]."
+      "A": "Tyrosine kinase inhibitors (Imatinib) target the active ATP-binding site of the abnormal BCR-ABL protein in CML.",
+      "B": "Anti-EGFR antibodies (Cetuximab) are used for colorectal and head/neck cancers.",
+      "C": "Topoisomerase II inhibitors (Etoposide) are used in lung/testicular cancers and lymphomas.",
+      "D": "Anti-CD20 antibodies (Rituximab) target B-cell malignancies.",
+      "E": "Anti-HER2 antibodies (Trastuzumab) target HER2+ breast/gastric cancer.",
+      "F": "Ribonucleotide reductase inhibitors (Hydroxyurea) decrease leukocytosis but are second-line."
     }
   },
   {
-    "question": "Question # 12: A 23-year-old man presents with persistent bleeding following a tooth extraction[cite: 1]. Labs: PT 25 sec (prolonged), aPTT 35 sec (normal), Platelets 200,000/mm³[cite: 1]. Deficiency of which factor is responsible?[cite: 1]",
+    "question": "Question # 12: A 23-year-old man presents with persistent bleeding following a tooth extraction. Labs: PT 25 sec (prolonged), aPTT 35 sec (normal), Platelets 200,000/mm³. Deficiency of which factor is responsible?",
     "options": [
-      "Factor VII[cite: 1]",
-      "Factor V[cite: 1]",
-      "Factor II[cite: 1]",
-      "Factor XIII[cite: 1]",
-      "Factor X[cite: 1]"
+      "Factor VII",
+      "Factor V",
+      "Factor II",
+      "Factor XIII",
+      "Factor X"
     ],
     "answer": 0,
     "choice_explanations": {
-      "A": "Factor VII is the key component of the extrinsic pathway; its isolated deficiency prolongs PT while leaving aPTT normal[cite: 1].",
-      "B": "Factor V is in the common pathway; deficiency prolongs both PT and aPTT[cite: 1].",
-      "C": "Factor II (prothrombin) is in the common pathway; deficiency prolongs both PT and aPTT[cite: 1].",
-      "D": "Factor XIII crosslinks fibrin; deficiency leaves both PT and aPTT normal[cite: 1].",
-      "E": "Factor X is in the common pathway; deficiency prolongs both PT and aPTT[cite: 1]."
+      "A": "Factor VII is the key component of the extrinsic pathway; its isolated deficiency prolongs PT while leaving aPTT normal.",
+      "B": "Factor V is in the common pathway; deficiency prolongs both PT and aPTT.",
+      "C": "Factor II (prothrombin) is in the common pathway; deficiency prolongs both PT and aPTT.",
+      "D": "Factor XIII crosslinks fibrin; deficiency leaves both PT and aPTT normal.",
+      "E": "Factor X is in the common pathway; deficiency prolongs both PT and aPTT."
     }
   },
   {
-    "question": "Question # 13: A 9-year-old boy from Kenya with sickle cell disease presents with anemia (Hb 7 g/dL) and reticulocytosis (9%)[cite: 1]. A peripheral blood smear will demonstrate:[cite: 1]",
+    "question": "Question # 13: A 9-year-old boy from Kenya with sickle cell disease presents with anemia (Hb 7 g/dL) and reticulocytosis (9%). A peripheral blood smear will demonstrate:",
     "options": [
-      "Ring-shaped inclusions in erythrocytes[cite: 1]",
-      "Teardrop-shaped erythrocytes[cite: 1]",
-      "Nuclear remnants in erythrocytes[cite: 1]",
-      "Fragmentation of erythrocytes[cite: 1]",
-      "Erythrocytes with no central pallor[cite: 1]"
+      "Ring-shaped inclusions in erythrocytes",
+      "Teardrop-shaped erythrocytes",
+      "Nuclear remnants in erythrocytes",
+      "Fragmentation of erythrocytes",
+      "Erythrocytes with no central pallor"
     ],
     "answer": 2,
     "choice_explanations": {
-      "A": "Ring-shaped inclusions represent Plasmodium trophozoites in malaria[cite: 1].",
-      "B": "Teardrop cells (dacrocytes) reflect bone marrow infiltration/myelofibrosis[cite: 1].",
-      "C": "Nuclear remnants (Howell-Jolly bodies) persist because auto-splenectomy in sickle cell disease prevents their removal[cite: 1].",
-      "D": "Fragmentation (schistocytes) indicates microangiopathic hemolytic anemia[cite: 1].",
-      "E": "Erythrocytes without central pallor (spherocytes) occur in hereditary spherocytosis or autoimmune hemolysis[cite: 1]."
+      "A": "Ring-shaped inclusions represent Plasmodium trophozoites in malaria.",
+      "B": "Teardrop cells (dacrocytes) reflect bone marrow infiltration/myelofibrosis.",
+      "C": "Nuclear remnants (Howell-Jolly bodies) persist because auto-splenectomy in sickle cell disease prevents their removal.",
+      "D": "Fragmentation (schistocytes) indicates microangiopathic hemolytic anemia.",
+      "E": "Erythrocytes without central pallor (spherocytes) occur in hereditary spherocytosis or autoimmune hemolysis."
     }
   },
   {
-    "question": "Question # 14: A patient with lung cancer is started on vinblastine chemotherapy[cite: 1]. This drug puts the patient at highest risk for:[cite: 1]",
+    "question": "Question # 14: A patient with lung cancer is started on vinblastine chemotherapy. This drug puts the patient at highest risk for:",
     "options": [
-      "Renal failure[cite: 1]",
-      "Pulmonary embolism[cite: 1]",
-      "Progressive multifocal leukoencephalopathy[cite: 1]",
-      "Pulmonary fibrosis[cite: 1]",
-      "Heart failure[cite: 1]",
-      "Invasive fungal infection[cite: 1]"
+      "Renal failure",
+      "Pulmonary embolism",
+      "Progressive multifocal leukoencephalopathy",
+      "Pulmonary fibrosis",
+      "Heart failure",
+      "Invasive fungal infection"
     ],
     "answer": 5,
     "choice_explanations": {
-      "A": "Renal failure is caused by nephrotoxic drugs like cisplatin/carboplatin[cite: 1].",
-      "B": "Pulmonary embolism risk is elevated by agents like tamoxifen[cite: 1].",
-      "C": "PML is associated with biologic agents such as rituximab/natalizumab[cite: 1].",
-      "D": "Pulmonary fibrosis is caused by bleomycin, busulfan, or methotrexate[cite: 1].",
-      "E": "Heart failure is caused by cardiotoxic agents like doxorubicin or trastuzumab[cite: 1].",
-      "F": "Vinblastine causes severe myelosuppression (leukopenia), predisposing to opportunistic fungal infections[cite: 1]."
+      "A": "Renal failure is caused by nephrotoxic drugs like cisplatin/carboplatin.",
+      "B": "Pulmonary embolism risk is elevated by agents like tamoxifen.",
+      "C": "PML is associated with biologic agents such as rituximab/natalizumab.",
+      "D": "Pulmonary fibrosis is caused by bleomycin, busulfan, or methotrexate.",
+      "E": "Heart failure is caused by cardiotoxic agents like doxorubicin or trastuzumab.",
+      "F": "Vinblastine causes severe myelosuppression (leukopenia), predisposing to opportunistic fungal infections."
     }
   },
   {
-    "question": "Question # 15: A 70-year-old man with right-sided renal cell carcinoma develops lung metastases[cite: 1]. Tumor cells spread directly via which structure?[cite: 1]",
+    "question": "Question # 15: A 70-year-old man with right-sided renal cell carcinoma develops lung metastases. Tumor cells spread directly via which structure?",
     "options": [
-      "Small intestine[cite: 1]",
-      "Mesenteric vessels[cite: 1]",
-      "Left renal vessels[cite: 1]",
-      "Aorta[cite: 1]",
-      "Inferior vena cava[cite: 1]"
+      "Small intestine",
+      "Mesenteric vessels",
+      "Left renal vessels",
+      "Aorta",
+      "Inferior vena cava"
     ],
     "answer": 4,
     "choice_explanations": {
-      "A": "Small intestine is not involved in primary renal venous drainage[cite: 1].",
-      "B": "Mesenteric vessels drain bowel segments, not the renal tissue[cite: 1].",
-      "C": "Left renal vessels drain the left kidney, whereas this patient has a right-sided tumor[cite: 1].",
-      "D": "Aorta carries systemic arterial blood away from the heart[cite: 1].",
-      "E": "Inferior Vena Cava receives blood directly from the right renal vein, conducting tumor emboli into pulmonary circulation[cite: 1]."
+      "A": "Small intestine is not involved in primary renal venous drainage.",
+      "B": "Mesenteric vessels drain bowel segments, not the renal tissue.",
+      "C": "Left renal vessels drain the left kidney, whereas this patient has a right-sided tumor.",
+      "D": "Aorta carries systemic arterial blood away from the heart.",
+      "E": "Inferior Vena Cava receives blood directly from the right renal vein, conducting tumor emboli into pulmonary circulation."
     }
   },
   {
-    "question": "Question # 16: A 13-year-old girl presents with severe epistaxis, prolonged PTT (49s), and prolonged bleeding time (11 min) with normal platelets[cite: 1]. What is the appropriate treatment?[cite: 1]",
+    "question": "Question # 16: A 13-year-old girl presents with severe epistaxis, prolonged PTT (49s), and prolonged bleeding time (11 min) with normal platelets. What is the appropriate treatment?",
     "options": [
-      "Prothrombin complex concentrate[cite: 1]",
-      "Phytonadione[cite: 1]",
-      "Rituximab[cite: 1]",
-      "Desmopressin[cite: 1]",
-      "Intravenous immunoglobulin[cite: 1]"
+      "Prothrombin complex concentrate",
+      "Phytonadione",
+      "Rituximab",
+      "Desmopressin",
+      "Intravenous immunoglobulin"
     ],
     "answer": 3,
     "choice_explanations": {
-      "A": "Prothrombin complex concentrate is used to reverse urgent warfarin toxicity[cite: 1].",
-      "B": "Phytonadione (Vitamin K) treats factor deficiencies that prolong PT as well[cite: 1].",
-      "C": "Rituximab treats autoimmune refractory states like ITP[cite: 1].",
-      "D": "Desmopressin stimulates vWF release from endothelial storage sites, treating von Willebrand disease[cite: 1].",
-      "E": "IVIG is used to treat immune thrombocytopenic purpura[cite: 1]."
+      "A": "Prothrombin complex concentrate is used to reverse urgent warfarin toxicity.",
+      "B": "Phytonadione (Vitamin K) treats factor deficiencies that prolong PT as well.",
+      "C": "Rituximab treats autoimmune refractory states like ITP.",
+      "D": "Desmopressin stimulates vWF release from endothelial storage sites, treating von Willebrand disease.",
+      "E": "IVIG is used to treat immune thrombocytopenic purpura."
     }
   },
   {
-    "question": "Question # 17: A 36-year-old woman with severe breathlessness has an SaO2 of 99% on room air but a mixed venous oxygen saturation (SvO2) of 55% (low)[cite: 1]. What is the cause?[cite: 1]",
+    "question": "Question # 17: A 36-year-old woman with severe breathlessness has an SaO2 of 99% on room air but a mixed venous oxygen saturation (SvO2) of 55% (low). What is the cause?",
     "options": [
-      "Increased carbon dioxide retention[cite: 1]",
-      "Decreased left ventricular ejection fraction[cite: 1]",
-      "Increased peripheral shunting[cite: 1]",
-      "Increased pulmonary vascular resistance[cite: 1]",
-      "Decreased hemoglobin concentration[cite: 1]"
+      "Increased carbon dioxide retention",
+      "Decreased left ventricular ejection fraction",
+      "Increased peripheral shunting",
+      "Increased pulmonary vascular resistance",
+      "Decreased hemoglobin concentration"
     ],
     "answer": 4,
     "choice_explanations": {
-      "A": "CO2 retention lowers arterial oxygen saturation on pulse oximetry[cite: 1].",
-      "B": "Decreased LVEF produces a mid-to-late systolic murmur rather than early systolic flow murmur[cite: 1].",
-      "C": "Peripheral shunting elevates venous oxygen saturation[cite: 1].",
-      "D": "Pulmonary hypertension produces a loud P2 best heard at the left sternal border[cite: 1].",
-      "E": "Severe anemia decreases total O2 content; tissues compensate by extracting more O2 per RBC, lowering SvO2[cite: 1]."
+      "A": "CO2 retention lowers arterial oxygen saturation on pulse oximetry.",
+      "B": "Decreased LVEF produces a mid-to-late systolic murmur rather than early systolic flow murmur.",
+      "C": "Peripheral shunting elevates venous oxygen saturation.",
+      "D": "Pulmonary hypertension produces a loud P2 best heard at the left sternal border.",
+      "E": "Severe anemia decreases total O2 content; tissues compensate by extracting more O2 per RBC, lowering SvO2."
     }
   },
   {
-    "question": "Question # 18: A 7-year-old boy develops acute hemolysis (jaundice, low haptoglobin, elevated LDH) 3 days after taking nitrofurantoin[cite: 1]. What is the primary cause?[cite: 1]",
+    "question": "Question # 18: A 7-year-old boy develops acute hemolysis (jaundice, low haptoglobin, elevated LDH) 3 days after taking nitrofurantoin. What is the primary cause?",
     "options": [
-      "Enzyme deficiency in red blood cells[cite: 1]",
-      "IgM autoantibodies against red blood cells[cite: 1]",
-      "Defective red blood cell membrane proteins[cite: 1]",
-      "Defect in orotic acid metabolism[cite: 1]",
-      "Polymerization of abnormal hemoglobin[cite: 1]",
-      "Lead poisoning[cite: 1]",
-      "Absent hemoglobin beta chain[cite: 1]"
+      "Enzyme deficiency in red blood cells",
+      "IgM autoantibodies against red blood cells",
+      "Defective red blood cell membrane proteins",
+      "Defect in orotic acid metabolism",
+      "Polymerization of abnormal hemoglobin",
+      "Lead poisoning",
+      "Absent hemoglobin beta chain"
     ],
     "answer": 0,
     "choice_explanations": {
-      "A": "G6PD enzyme deficiency impairs NADPH/glutathione production, leaving RBCs vulnerable to oxidative stress from drugs like nitrofurantoin[cite: 1].",
-      "B": "IgM autoantibodies drive cold agglutinin disease, usually in older adults after Mycoplasma/EBV[cite: 1].",
-      "C": "Membranopathies (hereditary spherocytosis) trigger hemolysis independent of drug exposure[cite: 1].",
-      "D": "Orotic aciduria causes macrocytic anemia without acute drug-triggered hemolysis[cite: 1].",
-      "E": "Sickle cell anemia vaso-occlusive crisis causes pain crises earlier in life[cite: 1].",
-      "F": "Lead poisoning causes microcytic anemia with neurological deficits[cite: 1].",
-      "G": "Beta-thalassemia major presents in early infancy with severe growth impairment[cite: 1]."
+      "A": "G6PD enzyme deficiency impairs NADPH/glutathione production, leaving RBCs vulnerable to oxidative stress from drugs like nitrofurantoin.",
+      "B": "IgM autoantibodies drive cold agglutinin disease, usually in older adults after Mycoplasma/EBV.",
+      "C": "Membranopathies (hereditary spherocytosis) trigger hemolysis independent of drug exposure.",
+      "D": "Orotic aciduria causes macrocytic anemia without acute drug-triggered hemolysis.",
+      "E": "Sickle cell anemia vaso-occlusive crisis causes pain crises earlier in life.",
+      "F": "Lead poisoning causes microcytic anemia with neurological deficits.",
+      "G": "Beta-thalassemia major presents in early infancy with severe growth impairment."
     }
   },
   {
-    "question": "Question # 19: A 48-year-old man with nephrotic syndrome (proteinuria, fatty casts, edema) develops right renal vein thrombosis[cite: 1]. What is the cause of hypercoagulability?[cite: 1]",
+    "question": "Question # 19: A 48-year-old man with nephrotic syndrome (proteinuria, fatty casts, edema) develops right renal vein thrombosis. What is the cause of hypercoagulability?",
     "options": [
-      "Factor V Leiden[cite: 1]",
-      "Increased lipoprotein synthesis[cite: 1]",
-      "Loss of antithrombin III[cite: 1]",
-      "Malignant erythropoietin production[cite: 1]",
-      "Antiphospholipid antibodies[cite: 1]"
+      "Factor V Leiden",
+      "Increased lipoprotein synthesis",
+      "Loss of antithrombin III",
+      "Malignant erythropoietin production",
+      "Antiphospholipid antibodies"
     ],
     "answer": 2,
     "choice_explanations": {
-      "A": "Factor V Leiden causes inherited hypercoagulability but does not explain nephrotic syndrome features[cite: 1].",
-      "B": "Increased lipoprotein synthesis causes hyperlipidemia/lipiduria without driving thrombosis[cite: 1].",
-      "C": "Loss of Antithrombin III through damaged glomerular filters leads to unchecked thrombin/Factor Xa activity[cite: 1].",
-      "D": "Malignant EPO production causes secondary polycythemia without massive proteinuria[cite: 1].",
-      "E": "Antiphospholipid antibodies occur in SLE, which is uncommon in older males without autoimmune history[cite: 1]."
+      "A": "Factor V Leiden causes inherited hypercoagulability but does not explain nephrotic syndrome features.",
+      "B": "Increased lipoprotein synthesis causes hyperlipidemia/lipiduria without driving thrombosis.",
+      "C": "Loss of Antithrombin III through damaged glomerular filters leads to unchecked thrombin/Factor Xa activity.",
+      "D": "Malignant EPO production causes secondary polycythemia without massive proteinuria.",
+      "E": "Antiphospholipid antibodies occur in SLE, which is uncommon in older males without autoimmune history."
     }
   },
   {
-    "question": "Question # 20: A 47-year-old female presents with easy bruising, low fibrinogen, and cytogenetics showing t(15;17)[cite: 1]. What is the appropriate treatment?[cite: 1]",
+    "question": "Question # 20: A 47-year-old female presents with easy bruising, low fibrinogen, and cytogenetics showing t(15;17). What is the appropriate treatment?",
     "options": [
-      "Platelet transfusion[cite: 1]",
-      "Rituximab[cite: 1]",
-      "All-trans retinoic acid[cite: 1]",
-      "Imatinib[cite: 1]",
-      "Cyclophosphamide[cite: 1]"
+      "Platelet transfusion",
+      "Rituximab",
+      "All-trans retinoic acid",
+      "Imatinib",
+      "Cyclophosphamide"
     ],
     "answer": 2,
     "choice_explanations": {
-      "A": "Platelet transfusion is reserved for active severe bleeding or counts < 10,000/mm³[cite: 1].",
-      "B": "Rituximab targets CD20 on B-cell neoplasms[cite: 1].",
-      "C": "All-trans retinoic acid (ATRA) overcomes the mutated RAR-alpha receptor in t(15;17) APL to promote promyelocyte differentiation[cite: 1].",
-      "D": "Imatinib targets BCR-ABL in CML t(9;22)[cite: 1].",
-      "E": "Cyclophosphamide is an alkylating agent not used as initial targeted therapy in APL[cite: 1]."
+      "A": "Platelet transfusion is reserved for active severe bleeding or counts < 10,000/mm³.",
+      "B": "Rituximab targets CD20 on B-cell neoplasms.",
+      "C": "All-trans retinoic acid (ATRA) overcomes the mutated RAR-alpha receptor in t(15;17) APL to promote promyelocyte differentiation.",
+      "D": "Imatinib targets BCR-ABL in CML t(9;22).",
+      "E": "Cyclophosphamide is an alkylating agent not used as initial targeted therapy in APL."
     }
   },
   {
-    "question": "Question # 21: A 32-year-old woman taking methimazole develops high fever, sore throat, and severe neutropenia (segmented neutrophils 8%)[cite: 1]. What is the most appropriate action?[cite: 1]",
+    "question": "Question # 21: A 32-year-old woman taking methimazole develops high fever, sore throat, and severe neutropenia (segmented neutrophils 8%). What is the most appropriate action?",
     "options": [
-      "Switch to propylthiouracil[cite: 1]",
-      "Perform bone marrow biopsy[cite: 1]",
-      "Test for EBV, HIV, and CMV infection[cite: 1]",
-      "Begin oral aminopenicillin[cite: 1]",
-      "Discontinue methimazole[cite: 1]"
+      "Switch to propylthiouracil",
+      "Perform bone marrow biopsy",
+      "Test for EBV, HIV, and CMV infection",
+      "Begin oral aminopenicillin",
+      "Discontinue methimazole"
     ],
     "answer": 4,
     "choice_explanations": {
-      "A": "Propylthiouracil shares cross-reactivity for thionamide-induced agranulocytosis and is contraindicated[cite: 1].",
-      "B": "Bone marrow biopsy is reserved for isolated, unexplained persistent cytopenias[cite: 1].",
-      "C": "Viral testing is secondary when a clear drug-induced agranulocytosis risk factor is present[cite: 1].",
-      "D": "Oral antibiotics are insufficient for neutropenic fever medical emergencies[cite: 1].",
-      "E": "Discontinuing methimazole immediately stops the offending agent causing agranulocytosis[cite: 1]."
+      "A": "Propylthiouracil shares cross-reactivity for thionamide-induced agranulocytosis and is contraindicated.",
+      "B": "Bone marrow biopsy is reserved for isolated, unexplained persistent cytopenias.",
+      "C": "Viral testing is secondary when a clear drug-induced agranulocytosis risk factor is present.",
+      "D": "Oral antibiotics are insufficient for neutropenic fever medical emergencies.",
+      "E": "Discontinuing methimazole immediately stops the offending agent causing agranulocytosis."
     }
   },
   {
-    "question": "Question # 22: A 75-year-old man presents with bone pain, renal failure (Cr 2.3), anemia, and hypercalcemia (12.6 mg/dL)[cite: 1]. Urine dipstick is negative for protein[cite: 1]. What is the cause of kidney injury?[cite: 1]",
+    "question": "Question # 22: A 75-year-old man presents with bone pain, renal failure (Cr 2.3), anemia, and hypercalcemia (12.6 mg/dL). Urine dipstick is negative for protein. What is the cause of kidney injury?",
     "options": [
-      "Antiglomerular basement membrane antibodies[cite: 1]",
-      "Immunoglobulin light chains[cite: 1]",
-      "Renal deposition of AL amyloid[cite: 1]",
-      "Anti double-stranded DNA antibodies[cite: 1]",
-      "Hypersensitivity reaction[cite: 1]"
+      "Antiglomerular basement membrane antibodies",
+      "Immunoglobulin light chains",
+      "Renal deposition of AL amyloid",
+      "Anti double-stranded DNA antibodies",
+      "Hypersensitivity reaction"
     ],
     "answer": 1,
     "choice_explanations": {
-      "A": "Anti-GBM antibodies cause Goodpasture syndrome with pulmonary hemorrhage and red cell casts[cite: 1].",
-      "B": "Monoclonal Immunoglobulin light chains (Bence Jones proteins) form casts that obstruct renal tubules (myeloma cast nephropathy); dipsticks miss light chains[cite: 1].",
-      "C": "AL amyloidosis causes nephrotic syndrome with heavy albuminuria (dipstick positive)[cite: 1].",
-      "D": "Anti-dsDNA causes lupus nephritis with hematuria/proteinuria[cite: 1].",
-      "E": "Acute interstitial nephritis presents with fever, rash, and eosinophiluria[cite: 1]."
+      "A": "Anti-GBM antibodies cause Goodpasture syndrome with pulmonary hemorrhage and red cell casts.",
+      "B": "Monoclonal Immunoglobulin light chains (Bence Jones proteins) form casts that obstruct renal tubules (myeloma cast nephropathy); dipsticks miss light chains.",
+      "C": "AL amyloidosis causes nephrotic syndrome with heavy albuminuria (dipstick positive).",
+      "D": "Anti-dsDNA causes lupus nephritis with hematuria/proteinuria.",
+      "E": "Acute interstitial nephritis presents with fever, rash, and eosinophiluria."
     }
   },
   {
-    "question": "Question # 23: A woman with sickle cell disease experiences fever, hypotension, flank pain, and hemoglobinuria 1 hour after receiving blood transfusion[cite: 1]. What test confirms the diagnosis?[cite: 1]",
+    "question": "Question # 23: A woman with sickle cell disease experiences fever, hypotension, flank pain, and hemoglobinuria 1 hour after receiving blood transfusion. What test confirms the diagnosis?",
     "options": [
-      "Bilateral pulmonary infiltrates on chest x-ray[cite: 1]",
-      "Serum antibodies against class I HLA antigens[cite: 1]",
-      "Positive direct Coombs test[cite: 1]",
-      "Positive blood cultures[cite: 1]",
-      "Low levels of serum IgA immunoglobulins[cite: 1]"
+      "Bilateral pulmonary infiltrates on chest x-ray",
+      "Serum antibodies against class I HLA antigens",
+      "Positive direct Coombs test",
+      "Positive blood cultures",
+      "Low levels of serum IgA immunoglobulins"
     ],
     "answer": 2,
     "choice_explanations": {
-      "A": "Bilateral infiltrates are seen in TRALI/TACO, which present with acute respiratory failure/hypoxemia[cite: 1].",
-      "B": "Anti-HLA antibodies cause febrile non-hemolytic transfusion reactions without flank pain or hemoglobinuria[cite: 1].",
-      "C": "Direct Coombs test detects recipient antibodies bound to donor RBCs in Acute Hemolytic Transfusion Reaction[cite: 1].",
-      "D": "Positive blood cultures indicate sepsis rather than acute immune hemolysis[cite: 1].",
-      "E": "IgA deficiency triggers anaphylaxis with bronchospasm and hives[cite: 1]."
+      "A": "Bilateral infiltrates are seen in TRALI/TACO, which present with acute respiratory failure/hypoxemia.",
+      "B": "Anti-HLA antibodies cause febrile non-hemolytic transfusion reactions without flank pain or hemoglobinuria.",
+      "C": "Direct Coombs test detects recipient antibodies bound to donor RBCs in Acute Hemolytic Transfusion Reaction.",
+      "D": "Positive blood cultures indicate sepsis rather than acute immune hemolysis.",
+      "E": "IgA deficiency triggers anaphylaxis with bronchospasm and hives."
     }
   },
   {
-    "question": "Question # 24: A 34-year-old woman presents with acrocyanosis after recovering from Mycoplasma pneumoniae infection[cite: 1]. Which blood smear/test finding is expected?[cite: 1]",
+    "question": "Question # 24: A 34-year-old woman presents with acrocyanosis after recovering from Mycoplasma pneumoniae infection. Which blood smear/test finding is expected?",
     "options": [
-      "Neutrophils with hypersegmented nuclei[cite: 1]",
-      "Erythrocytes with denatured hemoglobin inclusions[cite: 1]",
-      "Microcytic, hypochromic erythrocytes[cite: 1]",
-      "Erythrocytes with basophilic granules[cite: 1]",
-      "Erythrocytes coated with autoantibodies[cite: 1]"
+      "Neutrophils with hypersegmented nuclei",
+      "Erythrocytes with denatured hemoglobin inclusions",
+      "Microcytic, hypochromic erythrocytes",
+      "Erythrocytes with basophilic granules",
+      "Erythrocytes coated with autoantibodies"
     ],
     "answer": 4,
     "choice_explanations": {
-      "A": "Hypersegmented neutrophils indicate B12 or folate deficiency[cite: 1].",
-      "B": "Denatured hemoglobin inclusions (Heinz bodies) indicate G6PD deficiency[cite: 1].",
-      "C": "Microcytic hypochromic erythrocytes indicate iron deficiency or thalassemia[cite: 1].",
-      "D": "Basophilic stippling is seen in lead poisoning or thalassemias[cite: 1].",
-      "E": "Cold Agglutinin Disease induced by M. pneumoniae features IgM autoantibodies coating erythrocytes, confirmed by Direct Coombs test[cite: 1]."
+      "A": "Hypersegmented neutrophils indicate B12 or folate deficiency.",
+      "B": "Denatured hemoglobin inclusions (Heinz bodies) indicate G6PD deficiency.",
+      "C": "Microcytic hypochromic erythrocytes indicate iron deficiency or thalassemia.",
+      "D": "Basophilic stippling is seen in lead poisoning or thalassemias.",
+      "E": "Cold Agglutinin Disease induced by M. pneumoniae features IgM autoantibodies coating erythrocytes, confirmed by Direct Coombs test."
     }
   },
   {
-    "question": "Question # 25: A 54-year-old man develops acute podagra after starting niacin for hyperlipidemia[cite: 1]. What is the mechanism of action of niacin?[cite: 1]",
+    "question": "Question # 25: A 54-year-old man develops acute podagra after starting niacin for hyperlipidemia. What is the mechanism of action of niacin?",
     "options": [
-      "Promotion of hepatic LDL secretion[cite: 1]",
-      "Inhibition of hepatic HMG-CoA reductase[cite: 1]",
-      "Inhibition of intestinal bile acid absorption[cite: 1]",
-      "Inhibition of hepatic VLDL synthesis[cite: 1]",
-      "Inhibition of intestinal cholesterol absorption[cite: 1]"
+      "Promotion of hepatic LDL secretion",
+      "Inhibition of hepatic HMG-CoA reductase",
+      "Inhibition of intestinal bile acid absorption",
+      "Inhibition of hepatic VLDL synthesis",
+      "Inhibition of intestinal cholesterol absorption"
     ],
     "answer": 3,
     "choice_explanations": {
-      "A": "Fibrates promote LPL activity and hepatic LDL clearance[cite: 1].",
-      "B": "Statins inhibit HMG-CoA reductase[cite: 1].",
-      "C": "Bile acid resins (cholestyramine) bind bile acids in the intestine[cite: 1].",
-      "D": "Niacin inhibits hepatic VLDL synthesis (lowering LDL/triglycerides and raising HDL) and impairs renal uric acid excretion, triggering gout[cite: 1].",
-      "E": "Ezetimibe inhibits intestinal cholesterol absorption at the brush border[cite: 1]."
+      "A": "Fibrates promote LPL activity and hepatic LDL clearance.",
+      "B": "Statins inhibit HMG-CoA reductase.",
+      "C": "Bile acid resins (cholestyramine) bind bile acids in the intestine.",
+      "D": "Niacin inhibits hepatic VLDL synthesis (lowering LDL/triglycerides and raising HDL) and impairs renal uric acid excretion, triggering gout.",
+      "E": "Ezetimibe inhibits intestinal cholesterol absorption at the brush border."
     }
   },
   {
-    "question": "Question # 26: A 20-year-old man presents with fever and necrotic lymphadenopathy after camping[cite: 1]. Lymph node aspirate shows safety-pin bipolar staining coccobacilli (Yersinia pestis)[cite: 1]. What is the reservoir?[cite: 1]",
+    "question": "Question # 26: A 20-year-old man presents with fever and necrotic lymphadenopathy after camping. Lymph node aspirate shows safety-pin bipolar staining coccobacilli (Yersinia pestis). What is the reservoir?",
     "options": [
-      "Deer[cite: 1]",
-      "Birds[cite: 1]",
-      "Squirrels[cite: 1]",
-      "Dogs[cite: 1]",
-      "Bats[cite: 1]",
-      "Sheep[cite: 1]"
+      "Deer",
+      "Birds",
+      "Squirrels",
+      "Dogs",
+      "Bats",
+      "Sheep"
     ],
     "answer": 2,
     "choice_explanations": {
-      "A": "Deer are reservoirs for Lyme disease (Ixodes) and Ehrlichiosis[cite: 1].",
-      "B": "Birds are reservoirs for Chlamydia psittaci[cite: 1].",
-      "C": "Squirrels and wild rodents are natural reservoirs for Yersinia pestis (bubonic plague) in North America[cite: 1].",
-      "D": "Dogs carry Pasteurella, Rabies, and Rickettsia rickettsii[cite: 1].",
-      "E": "Bats are primary reservoirs for Rabies virus[cite: 1].",
-      "F": "Sheep are reservoirs for Coxiella burnetii (Q fever)[cite: 1]."
+      "A": "Deer are reservoirs for Lyme disease (Ixodes) and Ehrlichiosis.",
+      "B": "Birds are reservoirs for Chlamydia psittaci.",
+      "C": "Squirrels and wild rodents are natural reservoirs for Yersinia pestis (bubonic plague) in North America.",
+      "D": "Dogs carry Pasteurella, Rabies, and Rickettsia rickettsii.",
+      "E": "Bats are primary reservoirs for Rabies virus.",
+      "F": "Sheep are reservoirs for Coxiella burnetii (Q fever)."
     }
   },
   {
-    "question": "Question # 27: A 21-year-old female treated for ALL in the past presents with secondary amenorrhea due to premature ovarian failure[cite: 1]. Chromosomal analysis shows a 46,XY karyotype in peripheral blood cells[cite: 1]. What explains this?[cite: 1]",
+    "question": "Question # 27: A 21-year-old female treated for ALL in the past presents with secondary amenorrhea due to premature ovarian failure. Chromosomal analysis shows a 46,XY karyotype in peripheral blood cells. What explains this?",
     "options": [
-      "Allogeneic bone marrow transplant[cite: 1]",
-      "Müllerian duct agenesis[cite: 1]",
-      "21-hydroxylase deficiency[cite: 1]",
-      "Radiation therapy[cite: 1]",
-      "Defective androgen receptor[cite: 1]"
+      "Allogeneic bone marrow transplant",
+      "Müllerian duct agenesis",
+      "21-hydroxylase deficiency",
+      "Radiation therapy",
+      "Defective androgen receptor"
     ],
     "answer": 0,
     "choice_explanations": {
-      "A": "An allogeneic bone marrow transplant from a male donor replaces the recipient's hematopoietic system, yielding a 46,XY karyotype in circulating blood cells[cite: 1].",
-      "B": "Müllerian duct agenesis causes primary amenorrhea with normal ovarian function[cite: 1].",
-      "C": "21-hydroxylase deficiency causes virilization and congenital adrenal hyperplasia[cite: 1].",
-      "D": "CNS radiation causes ovarian failure via secondary hypogonadism, but does not alter genetic karyotype in blood[cite: 1].",
-      "E": "Androgen insensitivity syndrome presents with primary amenorrhea and absent internal female structures[cite: 1]."
+      "A": "An allogeneic bone marrow transplant from a male donor replaces the recipient's hematopoietic system, yielding a 46,XY karyotype in circulating blood cells.",
+      "B": "Müllerian duct agenesis causes primary amenorrhea with normal ovarian function.",
+      "C": "21-hydroxylase deficiency causes virilization and congenital adrenal hyperplasia.",
+      "D": "CNS radiation causes ovarian failure via secondary hypogonadism, but does not alter genetic karyotype in blood.",
+      "E": "Androgen insensitivity syndrome presents with primary amenorrhea and absent internal female structures."
     }
   },
   {
-    "question": "Question # 28: A 33-year-old woman with miscarriages, DVT, and prolonged aPTT (51s) is evaluated[cite: 1]. Which antibody confirms Antiphospholipid Syndrome?[cite: 1]",
+    "question": "Question # 28: A 33-year-old woman with miscarriages, DVT, and prolonged aPTT (51s) is evaluated. Which antibody confirms Antiphospholipid Syndrome?",
     "options": [
-      "Anti-nuclear antibodies[cite: 1]",
-      "Anti-ribonucleoprotein antibodies[cite: 1]",
-      "Anti-cyclical citrullinated peptide antibodies[cite: 1]",
-      "Anti-DNA topoisomerase I antibodies[cite: 1]",
-      "Anti-β2 glycoprotein antibodies[cite: 1]",
-      "Anti-synthetase antibodies[cite: 1]"
+      "Anti-nuclear antibodies",
+      "Anti-ribonucleoprotein antibodies",
+      "Anti-cyclical citrullinated peptide antibodies",
+      "Anti-DNA topoisomerase I antibodies",
+      "Anti-β2 glycoprotein antibodies",
+      "Anti-synthetase antibodies"
     ],
     "answer": 4,
     "choice_explanations": {
-      "A": "ANA is screening for SLE, but lacks specificity for Antiphospholipid Syndrome[cite: 1].",
-      "B": "Anti-U1 RNP is specific for Mixed Connective Tissue Disease[cite: 1].",
-      "C": "Anti-CCP is specific for Rheumatoid Arthritis[cite: 1].",
-      "D": "Anti-topoisomerase I (Scl-70) is specific for diffuse Systemic Sclerosis[cite: 1].",
-      "E": "Anti-β2 glycoprotein antibodies (along with lupus anticoagulant) confirm Antiphospholipid Syndrome[cite: 1].",
-      "F": "Anti-synthetase (Anti-Jo-1) is associated with polymyositis/dermatomyositis[cite: 1]."
+      "A": "ANA is screening for SLE, but lacks specificity for Antiphospholipid Syndrome.",
+      "B": "Anti-U1 RNP is specific for Mixed Connective Tissue Disease.",
+      "C": "Anti-CCP is specific for Rheumatoid Arthritis.",
+      "D": "Anti-topoisomerase I (Scl-70) is specific for diffuse Systemic Sclerosis.",
+      "E": "Anti-β2 glycoprotein antibodies (along with lupus anticoagulant) confirm Antiphospholipid Syndrome.",
+      "F": "Anti-synthetase (Anti-Jo-1) is associated with polymyositis/dermatomyositis."
     }
   },
   {
-    "question": "Question # 29: A 68-year-old man treated for Hodgkin Lymphoma (CD15+/CD30+) years ago presents with myeloblasts containing Auer rods[cite: 1]. What is the diagnosis?[cite: 1]",
+    "question": "Question # 29: A 68-year-old man treated for Hodgkin Lymphoma (CD15+/CD30+) years ago presents with myeloblasts containing Auer rods. What is the diagnosis?",
     "options": [
-      "Accelerated phase of chronic myeloid leukemia[cite: 1]",
-      "Leukemic transformation of T-cell lymphoma[cite: 1]",
-      "Richter transformation of small lymphocytic lymphoma[cite: 1]",
-      "Leukemic transformation of myelodysplastic syndrome[cite: 1]",
-      "Radiation-induced myeloid leukemia[cite: 1]"
+      "Accelerated phase of chronic myeloid leukemia",
+      "Leukemic transformation of T-cell lymphoma",
+      "Richter transformation of small lymphocytic lymphoma",
+      "Leukemic transformation of myelodysplastic syndrome",
+      "Radiation-induced myeloid leukemia"
     ],
     "answer": 4,
     "choice_explanations": {
-      "A": "Accelerated CML arises from pre-existing CML, which lacks CD15+/CD30+ Reed-Sternberg cells[cite: 1].",
-      "B": "Leukemic transformation of T-cell lymphoma (Sezary syndrome) features cerebriform lymphocytes[cite: 1].",
-      "C": "Richter transformation transforms CLL/SLL into Diffuse Large B-cell Lymphoma[cite: 1].",
-      "D": "Myelodysplastic syndrome does not present with primary CD15+/CD30+ lymphadenopathy[cite: 1].",
-      "E": "Radiation and alkylating chemotherapy for Hodgkin Lymphoma predispose patients to secondary Acute Myeloid Leukemia (AML), marked by Auer rods[cite: 1]."
+      "A": "Accelerated CML arises from pre-existing CML, which lacks CD15+/CD30+ Reed-Sternberg cells.",
+      "B": "Leukemic transformation of T-cell lymphoma (Sezary syndrome) features cerebriform lymphocytes.",
+      "C": "Richter transformation transforms CLL/SLL into Diffuse Large B-cell Lymphoma.",
+      "D": "Myelodysplastic syndrome does not present with primary CD15+/CD30+ lymphadenopathy.",
+      "E": "Radiation and alkylating chemotherapy for Hodgkin Lymphoma predispose patients to secondary Acute Myeloid Leukemia (AML), marked by Auer rods."
     }
   },
   {
-    "question": "Question # 30: A 48-year-old woman with follicular lymphoma [t(14;18)] has a mutation in an oncogene encoding a protein involved in:[cite: 1]",
+    "question": "Question # 30: A 48-year-old woman with follicular lymphoma [t(14;18)] has a mutation in an oncogene encoding a protein involved in:",
     "options": [
-      "Hydrolysis of guanosine triphosphate[cite: 1]",
-      "Upregulation of cytokine receptor binding[cite: 1]",
-      "Transfer of phosphate from ATP to cellular protein[cite: 1]",
-      "Inhibition of DNA break repair[cite: 1]",
-      "Phosphorylation of serine and threonine[cite: 1]",
-      "Inhibition of programmed cell death[cite: 1]"
+      "Hydrolysis of guanosine triphosphate",
+      "Upregulation of cytokine receptor binding",
+      "Transfer of phosphate from ATP to cellular protein",
+      "Inhibition of DNA break repair",
+      "Phosphorylation of serine and threonine",
+      "Inhibition of programmed cell death"
     ],
     "answer": 5,
     "choice_explanations": {
-      "A": "GTP hydrolysis is regulated by KRAS[cite: 1].",
-      "B": "Upregulation of cytokine receptor binding occurs with c-Kit mutations[cite: 1].",
-      "C": "Phosphate transfer from ATP is carried out by tyrosine kinases (BCR-ABL)[cite: 1].",
-      "D": "Inhibition of DNA break repair is associated with BRCA1/2 mutations[cite: 1].",
-      "E": "Serine/threonine phosphorylation is catalyzed by BRAF[cite: 1].",
-      "F": "Overexpression of Bcl-2 [t(14;18)] prevents cytochrome c release, inhibiting programmed cell death (apoptosis)[cite: 1]."
+      "A": "GTP hydrolysis is regulated by KRAS.",
+      "B": "Upregulation of cytokine receptor binding occurs with c-Kit mutations.",
+      "C": "Phosphate transfer from ATP is carried out by tyrosine kinases (BCR-ABL).",
+      "D": "Inhibition of DNA break repair is associated with BRCA1/2 mutations.",
+      "E": "Serine/threonine phosphorylation is catalyzed by BRAF.",
+      "F": "Overexpression of Bcl-2 [t(14;18)] prevents cytochrome c release, inhibiting programmed cell death (apoptosis)."
     }
   },
   {
-    "question": "Question # 31: A 32-year-old woman with SLE (malar rash, oral ulcers, arthralgias) will most likely exhibit which laboratory finding?[cite: 1]",
+    "question": "Question # 31: A 32-year-old woman with SLE (malar rash, oral ulcers, arthralgias) will most likely exhibit which laboratory finding?",
     "options": [
-      "Decreased lymphocyte count[cite: 1]",
-      "Increased platelet count[cite: 1]",
-      "Increased complement component 3[cite: 1]",
-      "Increased prothrombin time[cite: 1]",
-      "Decreased gamma globulin[cite: 1]"
+      "Decreased lymphocyte count",
+      "Increased platelet count",
+      "Increased complement component 3",
+      "Increased prothrombin time",
+      "Decreased gamma globulin"
     ],
     "answer": 0,
     "choice_explanations": {
-      "A": "Lymphopentenia is a classic hematologic criterion in Systemic Lupus Erythematosus due to complement/autoantibody destruction[cite: 1].",
-      "B": "Platelet counts are decreased (thrombocytopenia) rather than elevated in SLE[cite: 1].",
-      "C": "Complement C3 and C4 are consumed/decreased during active SLE flare[cite: 1].",
-      "D": "PT is unchanged; aPTT may be prolonged if lupus anticoagulant is present[cite: 1].",
-      "E": "Gamma globulins are increased due to widespread polyclonal B-cell activation[cite: 1]."
+      "A": "Lymphopentenia is a classic hematologic criterion in Systemic Lupus Erythematosus due to complement/autoantibody destruction.",
+      "B": "Platelet counts are decreased (thrombocytopenia) rather than elevated in SLE.",
+      "C": "Complement C3 and C4 are consumed/decreased during active SLE flare.",
+      "D": "PT is unchanged; aPTT may be prolonged if lupus anticoagulant is present.",
+      "E": "Gamma globulins are increased due to widespread polyclonal B-cell activation."
     }
   },
   {
-    "question": "Question # 32: A woman being treated for refractory Hepatitis C develops drug-induced hemolytic anemia[cite: 1]. What is the mechanism of action of this drug (ribavirin)?[cite: 1]",
+    "question": "Question # 32: A woman being treated for refractory Hepatitis C develops drug-induced hemolytic anemia. What is the mechanism of action of this drug (ribavirin)?",
     "options": [
-      "Activation of leukocytes[cite: 1]",
-      "Decreased release of progeny virus[cite: 1]",
-      "Inhibition of reverse transcriptase[cite: 1]",
-      "Inhibition of protease[cite: 1]",
-      "Decreased synthesis of guanine nucleotides[cite: 1]"
+      "Activation of leukocytes",
+      "Decreased release of progeny virus",
+      "Inhibition of reverse transcriptase",
+      "Inhibition of protease",
+      "Decreased synthesis of guanine nucleotides"
     ],
     "answer": 4,
     "choice_explanations": {
-      "A": "Activation of leukocytes describes Interferon-alpha[cite: 1].",
-      "B": "Decreased progeny virus release describes neuraminidase inhibitors (Oseltamivir)[cite: 1].",
-      "C": "Inhibition of reverse transcriptase describes NRTIs/NNRTIs used for HIV/HBV[cite: 1].",
-      "D": "Protease inhibitors (Simeprevir) cause fatigue without hemolytic anemia[cite: 1].",
-      "E": "Ribavirin inhibits IMP dehydrogenase, decreasing guanine nucleotide synthesis; it accumulates in RBCs, triggering hemolysis[cite: 1]."
+      "A": "Activation of leukocytes describes Interferon-alpha.",
+      "B": "Decreased progeny virus release describes neuraminidase inhibitors (Oseltamivir).",
+      "C": "Inhibition of reverse transcriptase describes NRTIs/NNRTIs used for HIV/HBV.",
+      "D": "Protease inhibitors (Simeprevir) cause fatigue without hemolytic anemia.",
+      "E": "Ribavirin inhibits IMP dehydrogenase, decreasing guanine nucleotide synthesis; it accumulates in RBCs, triggering hemolysis."
     }
   },
   {
-    "question": "Question # 33: A 6-year-old boy with Down syndrome dysmorphic features presents with acute leukemia (fatigue, petechiae, hepatosplenomegaly)[cite: 1]. Bone marrow aspirate will show:[cite: 1]",
+    "question": "Question # 33: A 6-year-old boy with Down syndrome dysmorphic features presents with acute leukemia (fatigue, petechiae, hepatosplenomegaly). Bone marrow aspirate will show:",
     "options": [
-      "Translocation t(15;17)[cite: 1]",
-      "Clusters of plasma cells[cite: 1]",
-      "Ringed sideroblasts[cite: 1]",
-      "CD10 positive cells[cite: 1]",
-      "Hypocellular bone marrow[cite: 1]"
+      "Translocation t(15;17)",
+      "Clusters of plasma cells",
+      "Ringed sideroblasts",
+      "CD10 positive cells",
+      "Hypocellular bone marrow"
     ],
     "answer": 3,
     "choice_explanations": {
-      "A": "Translocation t(15;17) causes APL, which is rare in pediatric Down syndrome patients[cite: 1].",
-      "B": "Clusters of plasma cells indicate Multiple Myeloma, seen in older adults[cite: 1].",
-      "C": "Ringed sideroblasts indicate sideroblastic anemia[cite: 1].",
-      "D": "Children with Down syndrome > 5 years old have a high risk of pre-B ALL, characterized by CD10+ lymphoblasts[cite: 1].",
-      "E": "Hypocellular bone marrow indicates aplastic anemia or myelofibrosis[cite: 1]."
+      "A": "Translocation t(15;17) causes APL, which is rare in pediatric Down syndrome patients.",
+      "B": "Clusters of plasma cells indicate Multiple Myeloma, seen in older adults.",
+      "C": "Ringed sideroblasts indicate sideroblastic anemia.",
+      "D": "Children with Down syndrome > 5 years old have a high risk of pre-B ALL, characterized by CD10+ lymphoblasts.",
+      "E": "Hypocellular bone marrow indicates aplastic anemia or myelofibrosis."
     }
   },
   {
-    "question": "Question # 34: A 60-year-old woman with multiple myeloma (bone pain, foamy urine, plasma cells on bone marrow biopsy) will show which peripheral blood smear finding?[cite: 1]",
+    "question": "Question # 34: A 60-year-old woman with multiple myeloma (bone pain, foamy urine, plasma cells on bone marrow biopsy) will show which peripheral blood smear finding?",
     "options": [
-      "Crescent-shaped, sheared erythrocyte fragments[cite: 1]",
-      "Erythrocytes with cytoplasmic hemoglobin inclusions[cite: 1]",
-      "B-lymphocytes with radial cytoplasmic projections[cite: 1]",
-      "Neutrophils with hypersegmented nuclear lobes[cite: 1]",
-      "Grouped erythrocytes with stacked-coin appearance[cite: 1]",
-      "Myeloblasts with needle-shaped cytoplasmic inclusions[cite: 1]"
+      "Crescent-shaped, sheared erythrocyte fragments",
+      "Erythrocytes with cytoplasmic hemoglobin inclusions",
+      "B-lymphocytes with radial cytoplasmic projections",
+      "Neutrophils with hypersegmented nuclear lobes",
+      "Grouped erythrocytes with stacked-coin appearance",
+      "Myeloblasts with needle-shaped cytoplasmic inclusions"
     ],
     "answer": 4,
     "choice_explanations": {
-      "A": "Sheared erythrocyte fragments (schistocytes) indicate MAHA/DIC/TTP[cite: 1].",
-      "B": "Hemoglobin inclusions (Heinz bodies) indicate G6PD deficiency[cite: 1].",
-      "C": "Radial cytoplasmic projections indicate hairy cell leukemia[cite: 1].",
-      "D": "Hypersegmented neutrophils indicate B12 or folate deficiency[cite: 1].",
-      "E": "Elevated monoclonal immunoglobulins decrease charge repulsion between RBCs, producing Rouleaux formation (stacked-coin appearance)[cite: 1].",
-      "F": "Needle-shaped inclusions (Auer rods) indicate AML[cite: 1]."
+      "A": "Sheared erythrocyte fragments (schistocytes) indicate MAHA/DIC/TTP.",
+      "B": "Hemoglobin inclusions (Heinz bodies) indicate G6PD deficiency.",
+      "C": "Radial cytoplasmic projections indicate hairy cell leukemia.",
+      "D": "Hypersegmented neutrophils indicate B12 or folate deficiency.",
+      "E": "Elevated monoclonal immunoglobulins decrease charge repulsion between RBCs, producing Rouleaux formation (stacked-coin appearance).",
+      "F": "Needle-shaped inclusions (Auer rods) indicate AML."
     }
   },
   {
-    "question": "Question # 35: A 52-year-old man develops non-pitting lower extremity edema following rectal surgery and lymph node dissection[cite: 1]. Interstitial fluid analysis will show:[cite: 1]",
+    "question": "Question # 35: A 52-year-old man develops non-pitting lower extremity edema following rectal surgery and lymph node dissection. Interstitial fluid analysis will show:",
     "options": [
-      "Acellular, protein-poor fluid[cite: 1]",
-      "Lymphocytic, hemosiderin-rich fluid[cite: 1]",
-      "Lipid-rich, protein-rich fluid[cite: 1]",
-      "Protein-rich, glycosaminoglycan-rich fluid[cite: 1]",
-      "Neutrophilic, protein-rich fluid[cite: 1]"
+      "Acellular, protein-poor fluid",
+      "Lymphocytic, hemosiderin-rich fluid",
+      "Lipid-rich, protein-rich fluid",
+      "Protein-rich, glycosaminoglycan-rich fluid",
+      "Neutrophilic, protein-rich fluid"
     ],
     "answer": 2,
     "choice_explanations": {
-      "A": "Acellular, protein-poor fluid is a transudate (heart failure, cirrhosis) causing pitting edema[cite: 1].",
-      "B": "Lymphocytic, hemosiderin-rich fluid is seen in chronic venous insufficiency[cite: 1].",
-      "C": "Disruption of lymphatic drainage (lymphedema) leads to interstitial accumulation of high-viscosity, protein-rich, and lipid-rich fluid[cite: 1].",
-      "D": "Glycosaminoglycan-rich fluid causes myxedema in severe hypothyroidism[cite: 1].",
-      "E": "Neutrophilic, protein-rich fluid indicates purulent exudate/infection[cite: 1]."
+      "A": "Acellular, protein-poor fluid is a transudate (heart failure, cirrhosis) causing pitting edema.",
+      "B": "Lymphocytic, hemosiderin-rich fluid is seen in chronic venous insufficiency.",
+      "C": "Disruption of lymphatic drainage (lymphedema) leads to interstitial accumulation of high-viscosity, protein-rich, and lipid-rich fluid.",
+      "D": "Glycosaminoglycan-rich fluid causes myxedema in severe hypothyroidism.",
+      "E": "Neutrophilic, protein-rich fluid indicates purulent exudate/infection."
     }
   },
   {
-    "question": "Question # 36: A 14-year-old boy with G6PD deficiency presents with Heinz bodies and bite cells during an infection[cite: 1]. The deficient enzyme normally produces a cofactor required for:[cite: 1]",
+    "question": "Question # 36: A 14-year-old boy with G6PD deficiency presents with Heinz bodies and bite cells during an infection. The deficient enzyme normally produces a cofactor required for:",
     "options": [
-      "De-novo synthesis of glutathione[cite: 1]",
-      "Generation of superoxide[cite: 1]",
-      "Anchoring proteins to cell surface[cite: 1]",
-      "Conversion of phosphoenolpyruvate[cite: 1]",
-      "Function of myeloperoxidase[cite: 1]"
+      "De-novo synthesis of glutathione",
+      "Generation of superoxide",
+      "Anchoring proteins to cell surface",
+      "Conversion of phosphoenolpyruvate",
+      "Function of myeloperoxidase"
     ],
     "answer": 1,
     "choice_explanations": {
-      "A": "Glutathione synthetase carries out de-novo glutathione synthesis[cite: 1].",
-      "B": "G6PD produces NADPH, which is an essential cofactor for NADPH oxidase to generate superoxide during the phagocytic oxidative burst[cite: 1].",
-      "C": "GPI anchors proteins to cell surfaces (impaired in PNH)[cite: 1].",
-      "D": "Conversion of phosphoenolpyruvate is catalyzed by pyruvate kinase[cite: 1].",
-      "E": "Myeloperoxidase converts hydrogen peroxide to hypochlorous acid independent of G6PD[cite: 1]."
+      "A": "Glutathione synthetase carries out de-novo glutathione synthesis.",
+      "B": "G6PD produces NADPH, which is an essential cofactor for NADPH oxidase to generate superoxide during the phagocytic oxidative burst.",
+      "C": "GPI anchors proteins to cell surfaces (impaired in PNH).",
+      "D": "Conversion of phosphoenolpyruvate is catalyzed by pyruvate kinase.",
+      "E": "Myeloperoxidase converts hydrogen peroxide to hypochlorous acid independent of G6PD."
     }
   },
   {
-    "question": "Question # 37: An 8-year-old Asian girl presents with microcytic anemia, normal ferritin, and normal Hb electrophoresis[cite: 1]. What is the underlying pathogenesis?[cite: 1]",
+    "question": "Question # 37: An 8-year-old Asian girl presents with microcytic anemia, normal ferritin, and normal Hb electrophoresis. What is the underlying pathogenesis?",
     "options": [
-      "Decreased production of β-globin proteins[cite: 1]",
-      "Amino acid substitution in the β-globin protein[cite: 1]",
-      "Cis deletion of α-globin genes[cite: 1]",
-      "Inadequate intake of iron[cite: 1]",
-      "Acquired inhibition of heme synthesis[cite: 1]"
+      "Decreased production of β-globin proteins",
+      "Amino acid substitution in the β-globin protein",
+      "Cis deletion of α-globin genes",
+      "Inadequate intake of iron",
+      "Acquired inhibition of heme synthesis"
     ],
     "answer": 2,
     "choice_explanations": {
-      "A": "Decreased beta-globin production occurs in beta-thalassemia minor, which shows elevated HbA2 on electrophoresis[cite: 1].",
-      "B": "Beta-globin amino acid substitution causes Sickle Cell Disease[cite: 1].",
-      "C": "Cis deletion (--/αα) of two alpha-globin genes causes Alpha-Thalassemia minor, common in Asian populations, presenting with microcytosis and normal Hb electrophoresis[cite: 1].",
-      "D": "Inadequate iron intake lowers serum ferritin levels[cite: 1].",
-      "E": "Lead toxicity causes microcytic anemia with basophilic stippling and neurological signs[cite: 1]."
+      "A": "Decreased beta-globin production occurs in beta-thalassemia minor, which shows elevated HbA2 on electrophoresis.",
+      "B": "Beta-globin amino acid substitution causes Sickle Cell Disease.",
+      "C": "Cis deletion (--/αα) of two alpha-globin genes causes Alpha-Thalassemia minor, common in Asian populations, presenting with microcytosis and normal Hb electrophoresis.",
+      "D": "Inadequate iron intake lowers serum ferritin levels.",
+      "E": "Lead toxicity causes microcytic anemia with basophilic stippling and neurological signs."
     }
   },
   {
-    "question": "Question # 38: Which change will decrease oxygen delivery to peripheral tissues by shifting the oxygen-hemoglobin curve to the left?[cite: 1]",
+    "question": "Question # 38: Which change will decrease oxygen delivery to peripheral tissues by shifting the oxygen-hemoglobin curve to the left?",
     "options": [
-      "Decrease the serum 2,3-bisphosphoglycerate concentration[cite: 1]",
-      "Increase the serum hydrogen ion concentration[cite: 1]",
-      "Decrease the proportion of fetal hemoglobin[cite: 1]",
-      "Increase the arterial partial pressure of carbon dioxide[cite: 1]",
-      "Increase the serum temperature[cite: 1]"
+      "Decrease the serum 2,3-bisphosphoglycerate concentration",
+      "Increase the serum hydrogen ion concentration",
+      "Decrease the proportion of fetal hemoglobin",
+      "Increase the arterial partial pressure of carbon dioxide",
+      "Increase the serum temperature"
     ],
     "answer": 0,
     "choice_explanations": {
-      "A": "Decreasing 2,3-BPG stabilizes oxyhemoglobin, shifting the curve to the left, increasing O2 affinity, and reducing O2 delivery to tissues[cite: 1].",
-      "B": "Increased H+ (decreased pH) shifts the curve to the right (Bohr effect), enhancing O2 release[cite: 1].",
-      "C": "Decreasing fetal Hb shifts the curve to the right[cite: 1].",
-      "D": "Increased PaCO2 shifts the curve to the right[cite: 1].",
-      "E": "Increased temperature shifts the curve to the right[cite: 1]."
+      "A": "Decreasing 2,3-BPG stabilizes oxyhemoglobin, shifting the curve to the left, increasing O2 affinity, and reducing O2 delivery to tissues.",
+      "B": "Increased H+ (decreased pH) shifts the curve to the right (Bohr effect), enhancing O2 release.",
+      "C": "Decreasing fetal Hb shifts the curve to the right.",
+      "D": "Increased PaCO2 shifts the curve to the right.",
+      "E": "Increased temperature shifts the curve to the right."
     }
   },
   {
-    "question": "Question # 39: A 72-year-old man presents with lymphadenopathy, splenomegaly, a positive direct Coombs test, and smudge cells on peripheral blood smear[cite: 1]. What is the diagnosis?[cite: 1]",
+    "question": "Question # 39: A 72-year-old man presents with lymphadenopathy, splenomegaly, a positive direct Coombs test, and smudge cells on peripheral blood smear. What is the diagnosis?",
     "options": [
-      "Chronic myelogenous leukemia[cite: 1]",
-      "Acute myelogenous leukemia[cite: 1]",
-      "Follicular lymphoma[cite: 1]",
-      "Hairy cell leukemia[cite: 1]",
-      "Hodgkin lymphoma[cite: 1]",
-      "Chronic lymphocytic leukemia[cite: 1]",
-      "Hemophagocytic lymphohistiocytosis[cite: 1]"
+      "Chronic myelogenous leukemia",
+      "Acute myelogenous leukemia",
+      "Follicular lymphoma",
+      "Hairy cell leukemia",
+      "Hodgkin lymphoma",
+      "Chronic lymphocytic leukemia",
+      "Hemophagocytic lymphohistiocytosis"
     ],
     "answer": 5,
     "choice_explanations": {
-      "A": "CML features marked neutrophilic leukocytosis with immature precursors[cite: 1].",
-      "B": "AML features myeloblasts with Auer rods[cite: 1].",
-      "C": "Follicular lymphoma features small cleaved lymphocytes without smudge cells[cite: 1].",
-      "D": "Hairy cell leukemia features villous cytoplasmic projections[cite: 1].",
-      "E": "Hodgkin lymphoma features Reed-Sternberg cells on lymph node biopsy[cite: 1].",
-      "F": "Chronic Lymphocytic Leukemia (CLL) characteristically features smudge cells on blood smear and can be complicated by Autoimmune Hemolytic Anemia (positive Coombs test)[cite: 1].",
-      "G": "HLH presents with severe pancytopenia, high fever, and hemophagocytosis[cite: 1]."
+      "A": "CML features marked neutrophilic leukocytosis with immature precursors.",
+      "B": "AML features myeloblasts with Auer rods.",
+      "C": "Follicular lymphoma features small cleaved lymphocytes without smudge cells.",
+      "D": "Hairy cell leukemia features villous cytoplasmic projections.",
+      "E": "Hodgkin lymphoma features Reed-Sternberg cells on lymph node biopsy.",
+      "F": "Chronic Lymphocytic Leukemia (CLL) characteristically features smudge cells on blood smear and can be complicated by Autoimmune Hemolytic Anemia (positive Coombs test).",
+      "G": "HLH presents with severe pancytopenia, high fever, and hemophagocytosis."
     }
   },
   {
-    "question": "Question # 40: A 40-year-old woman presents with fever, confusion, petechiae, schistocytes, microangiopathic hemolytic anemia, and thrombocytopenia[cite: 1]. What is the cause?[cite: 1]",
+    "question": "Question # 40: A 40-year-old woman presents with fever, confusion, petechiae, schistocytes, microangiopathic hemolytic anemia, and thrombocytopenia. What is the cause?",
     "options": [
-      "Enterohemorrhagic E.coli toxins[cite: 1]",
-      "Antibodies against ADAMTS13[cite: 1]",
-      "Antibodies against GpIIb/IIIa[cite: 1]",
-      "Absence of platelet GpIIb/IIIa receptors[cite: 1]",
-      "Mutation of the PIGA gene[cite: 1]",
-      "Antibodies against double-stranded DNA[cite: 1]"
+      "Enterohemorrhagic E.coli toxins",
+      "Antibodies against ADAMTS13",
+      "Antibodies against GpIIb/IIIa",
+      "Absence of platelet GpIIb/IIIa receptors",
+      "Mutation of the PIGA gene",
+      "Antibodies against double-stranded DNA"
     ],
     "answer": 1,
     "choice_explanations": {
-      "A": "Shiga-like toxin causes HUS in young children following bloody diarrhea[cite: 1].",
-      "B": "Autoantibodies against ADAMTS13 prevent vWF multimer cleavage, driving microthrombosis and the pentad of Thrombotic Thrombocytopenic Purpura (TTP)[cite: 1].",
-      "C": "Anti-GpIIb/IIIa antibodies cause ITP without schistocytes or renal/neurological failure[cite: 1].",
-      "D": "Absence of GpIIb/IIIa receptors causes Glanzmann thrombasthenia[cite: 1].",
-      "E": "PIGA mutations cause Paroxysmal Nocturnal Hemoglobinuria[cite: 1].",
-      "F": "Anti-dsDNA antibodies are seen in SLE, which presents with malar rash and arthritis[cite: 1]."
+      "A": "Shiga-like toxin causes HUS in young children following bloody diarrhea.",
+      "B": "Autoantibodies against ADAMTS13 prevent vWF multimer cleavage, driving microthrombosis and the pentad of Thrombotic Thrombocytopenic Purpura (TTP).",
+      "C": "Anti-GpIIb/IIIa antibodies cause ITP without schistocytes or renal/neurological failure.",
+      "D": "Absence of GpIIb/IIIa receptors causes Glanzmann thrombasthenia.",
+      "E": "PIGA mutations cause Paroxysmal Nocturnal Hemoglobinuria.",
+      "F": "Anti-dsDNA antibodies are seen in SLE, which presents with malar rash and arthritis."
     }
   }
 ]
